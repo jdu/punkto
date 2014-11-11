@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.application-container {
+  display: flex;
+
+}
+
+.application-container .map-container {
+  flex: 2;
+  max-width: 60%;
+}
+
+.application-container .grid-container {
+  flex: 1;
+}
+
+#grid {
+  height: 100%;
+}

@@ -1,0 +1,1461 @@
+[{
+  "type": "Feature",
+  "properties": {
+    "uuid": "535df6b5-8934-49c5-819d-d15ea5f5990b",
+    "countryname": "Burundi",
+    "name": "Bujumbura",
+    "geolevel": 4,
+    "map_icon": "urban.png"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.356,
+      -3.372
+    ]
+  }
+}
+,
+{"type": "Feature", "properties":{"uuid": "32cac582-9ff2-41c8-ab6e-5940829946a4", "countryname": "Burundi", "name": "Giharo", "geolevel": 4, "map_icon": "refugee-camp.png"}, "geometry":{"type": "Point", "coordinates": [30.216937, -3.855558] }}
+,
+{"type": "Feature", "properties": {"uuid": "0c7e9c40-c310-4bf8-be33-7817c6004968", "countryname": "Burundi", "name": "Gasorwe", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.206667, -2.880833] }}
+,
+{"type": "Feature", "properties": {"uuid": "ecccd82e-c866-4574-9601-799641b905e3", "countryname": "Central African Republic", "name": "Mboki", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [25.9571471, 5.3155739] }}
+,
+{"type": "Feature", "properties": {"uuid": "aef0a9d0-a488-47f1-96b4-cd48e1b8ec57", "countryname": "Burundi", "name": "Gihinga", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.731493, -3.501281] }}
+,
+{"type": "Feature", "properties": {"uuid": "71a2f7f4-b5e3-4064-9eee-ad53b88c4196", "countryname": "Congo", "name": "Impfondo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [18.0539382, 1.6259451] }}
+,
+{"type": "Feature", "properties": {"uuid": "5fcca1b2-68a0-4cfc-a343-784ec2e94b60", "countryname": "Burundi", "name": "Musasa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.111503, -2.850102] }}
+,
+{"type": "Feature", "properties": {"uuid": "7e6f7b0f-f696-48fa-85b3-d183f8dfef79", "countryname": "Burundi", "name": "Bwagiriza", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.202836, -3.214816] }}
+,
+{"type": "Feature", "properties": {"uuid": "bac8d48e-2dfe-409b-92f9-a09b7cea462c", "countryname": "Central African Republic", "name": "Batalimo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [18.58664, 4.36197] }}
+,
+{"type": "Feature", "properties": {"uuid": "09869d83-e0c1-4385-90e6-dfae7586f333", "countryname": "Niger", "name": "Chinwaren", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "27563baf-40a4-45df-b5ea-e3ab5435a402", "countryname": "Congo (DR)", "name": "Karisimbi", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.132602, -1.401268] }}
+,
+{"type": "Feature", "properties": {"uuid": "2cf1071a-469f-45f0-b6ea-4b7dca126614", "countryname": "Congo (DR)", "name": "Masisi", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.131795, -1.200822] }}
+,
+{"type": "Feature", "properties": {"uuid": "5471ec39-2b73-4870-a254-355a386f84c8", "countryname": "Congo (DR)", "name": "Birambizo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.131795, -1.200822] }}
+,
+{"type": "Feature", "properties": {"uuid": "c087109f-49fc-4f67-bcb0-4fe54b1ce616", "countryname": "Congo", "name": "Liranga", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [17.608, -0.65] }}
+,
+{"type": "Feature", "properties": {"uuid": "2663a8d8-9525-4ff2-90fb-5ae08deb2286", "countryname": "Iraq", "name": "Al' Qaim", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [41.219072, 34.417309] }}
+,
+{"type": "Feature", "properties": {"uuid": "fa212cf6-e90f-4921-a9c6-d9f4de35fedd", "countryname": "Togo", "name": "Tandjouare 1", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "d0f55018-3995-4018-8717-844e63765bba", "countryname": "Congo (DR)", "name": "Minova", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.116564, -1.422759] }}
+,
+{"type": "Feature", "properties": {"uuid": "fb4aefe5-9ad7-4d39-9f84-8d0087aa3ce9", "countryname": "Congo (DR)", "name": "Bukavu", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [28.85440031, -2.499821355] }}
+,
+{"type": "Feature", "properties": {"uuid": "ab0495ed-040d-4112-8695-1628f0e42682", "countryname": "Congo (DR)", "name": "Ingbokolo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.761306, 3.401197] }}
+,
+{"type": "Feature", "properties": {"uuid": "80b5741d-242b-4b65-920e-5a8858575c21", "countryname": "Congo (DR)", "name": "Kimaza", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [14.823195, -5.126168] }}
+,
+{"type": "Feature", "properties": {"uuid": "4428dd3b-7340-4c5b-aa5b-97b7f8a1aa7a", "countryname": "Congo (DR)", "name": "Kinshasa", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [15.314, -4.307] }}
+,
+{"type": "Feature", "properties": {"uuid": "dd77c6ab-67bf-4d37-9135-2432d05a8a0c", "countryname": "Congo (DR)", "name": "Lubumbashi", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [27.284699, -11.394547] }}
+,
+{"type": "Feature", "properties": {"uuid": "81460ee6-6a58-4a34-807f-8d188d8ab2ca", "countryname": "Congo (DR)", "name": "Uvira", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [29.1342, -3.4073] }}
+,
+{"type": "Feature", "properties": {"uuid": "ee93a686-ba87-43c9-bafd-9498cd2093d5", "countryname": "Congo (DR)", "name": "Goma", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [29.2204548, -1.658501] }}
+,
+{"type": "Feature", "properties": {"uuid": "12ad830c-45ed-4674-91b1-b5e778e6b60e", "countryname": "Congo (DR)", "name": "Mole", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [18.47415, 4.08102] }}
+,
+{"type": "Feature", "properties": {"uuid": "0ed5d263-e6df-419c-80bf-e9c2642024ff", "countryname": "Congo (DR)", "name": "Inke", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [20.4614, 4.03513] }}
+,
+{"type": "Feature", "properties": {"uuid": "e55d05b1-7dd1-43f6-81d9-250fc30bdfea", "countryname": "Central African Republic", "name": "Pladama", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [20.51028, 5.73742] }}
+,
+{"type": "Feature", "properties": {"uuid": "bafa4a98-8111-4a89-bf06-79741badd28a", "countryname": "Central African Republic", "name": "Zemio", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [25.1333333, 5.0333333] }}
+,
+{"type": "Feature", "properties": {"uuid": "61b02e52-cca1-4ff1-9727-acae5d8d302e", "countryname": "Central African Republic", "name": "Obo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [26.4916731, 5.3956496] }}
+,
+{"type": "Feature", "properties": {"uuid": "3de6e685-9ade-4868-b615-cca059453611", "countryname": "Cameroon", "name": "Betare-oya", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [14.08298, 5.597916] }}
+,
+{"type": "Feature", "properties": {"uuid": "38629407-29cb-427a-9838-332223791cfc", "countryname": "Congo", "name": "Brazzaville", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [15.2721, -4.27262] }}
+,
+{"type": "Feature", "properties": {"uuid": "8afdbe3e-5e74-4f76-804f-95dd3a1e0b78", "countryname": "Cameroon", "name": "Garoua Boulai", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [14.32622, 5.53918] }}
+,
+{"type": "Feature", "properties": {"uuid": "9c4a8ed7-0e55-4252-b9e1-6789d42be6cb", "countryname": "Congo", "name": "Pointe-Noire", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [11.51491, -4.464321] }}
+,
+{"type": "Feature", "properties": {"uuid": "655aaad4-9d64-4c3b-900c-7a39a355a43e", "countryname": "Congo", "name": "Betou", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "d986df8f-4cde-412f-95d9-b9cfe35038ac", "countryname": "Cameroon", "name": "Djohong", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [14.6904, 6.83608] }}
+,
+{"type": "Feature", "properties": {"uuid": "fd17d752-8abd-4022-af49-bb0fc2d52da6", "countryname": "Cameroon", "name": "Meiganga", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [14.17388, 6.31197] }}
+,
+{"type": "Feature", "properties": {"uuid": "2640396f-4997-4bdc-94d3-2b706d8eb57c", "countryname": "Cameroon", "name": "Batouri", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [14.22, 4.256] }}
+,
+{"type": "Feature", "properties": {"uuid": "ffd23c75-4fe4-4cac-8f24-9462f935bcab", "countryname": "Iraq", "name": "Qushtapa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [44.037245, 35.982952] }}
+,
+{"type": "Feature", "properties": {"uuid": "2e9b7e59-a75a-489e-8502-3f0a92a8a173", "countryname": "Cameroon", "name": "Ndelele", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [14.553083, 4.22136] }}
+,
+{"type": "Feature", "properties": {"uuid": "d879260a-0af1-4581-b80c-e4ce6cfbfcb7", "countryname": "Cameroon", "name": "Bertoua", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.41452, 4.34317] }}
+,
+{"type": "Feature", "properties": {"uuid": "d7a52191-901b-41c5-b9ad-7843d495c46b", "countryname": "Cameroon", "name": "Kette", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [14.32723, 4.53347] }}
+,
+{"type": "Feature", "properties": {"uuid": "a87facc9-361e-43da-8982-08eb8302de40", "countryname": "Cameroon", "name": "Tibati", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.2326, 6.25453] }}
+,
+{"type": "Feature", "properties": {"uuid": "83eb13c5-33fb-4170-808a-fd2de329b0f7", "countryname": "Benin", "name": "Urban", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [2.25, 9.5] }}
+,
+{"type": "Feature", "properties": {"uuid": "09f3b9ab-86a1-4945-9496-4c259d520413", "countryname": "Cameroon", "name": "Douala", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [4.04749, 9.70637] }}
+,
+{"type": "Feature", "properties": {"uuid": "2927d325-5b6c-4576-b1df-9a70171dccb3", "countryname": "Kenya", "name": "Ifo II East", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [40.32956, 0.14753] }}
+,
+{"type": "Feature", "properties": {"uuid": "f2f8e6bc-9aeb-4d9d-9236-0caf42e7e263", "countryname": "Cameroon", "name": "Yaounde", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [11.305621, 3.522517] }}
+,
+{"type": "Feature", "properties": {"uuid": "78b65344-6e5b-41d1-b748-e76763eb679f", "countryname": "Cameroon", "name": "Langui", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [14.8624, 11.9358] }}
+,
+{"type": "Feature", "properties": {"uuid": "41378be1-5038-4a25-b860-afb0f6c73134", "countryname": "Cameroon", "name": "Minawao", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.8833333, 10.5833333] }}
+,
+{"type": "Feature", "properties": {"uuid": "b1e99643-6003-4e25-8f2f-21f803dc4e45", "countryname": "Chad", "name": "Moyo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [18.4648, 8.8286] }}
+,
+{"type": "Feature", "properties": {"uuid": "633ce5d0-6775-4aac-a166-605bd78e9386", "countryname": "Gabon", "name": "Akieni", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.88333, -1.18333] }}
+,
+{"type": "Feature", "properties": {"uuid": "5915bd00-eccd-4858-9cf5-fcea4382dcf1", "countryname": "Togo", "name": "Sotouboua", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.983333, 8.5666667] }}
+,
+{"type": "Feature", "properties": {"uuid": "e8a376ba-af1e-4350-b341-d42dfc1f2130", "countryname": "Gabon", "name": "Bakoumba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [12.3, -1.55] }}
+,
+{"type": "Feature", "properties": {"uuid": "e9f3b9c2-c816-4734-97e7-20156b6b3fe2", "countryname": "Chad", "name": "Gouroukoune", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "2c7cbfa5-68d8-4363-ac2b-b24596c35952", "countryname": "Gabon", "name": "Banda-Mamba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.7, -3.1] }}
+,
+{"type": "Feature", "properties": {"uuid": "26d6ca56-70a9-4a09-a65a-d87c3878c937", "countryname": "Gabon", "name": "Bibora", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.483333, -3.1333333] }}
+,
+{"type": "Feature", "properties": {"uuid": "43865468-2d9a-4805-92d6-6223f05ca377", "countryname": "Gabon", "name": "Bitam", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.48333, 2.08333] }}
+,
+{"type": "Feature", "properties": {"uuid": "168397c8-a403-470a-924e-b25a4b821581", "countryname": "South Sudan", "name": "Panrieng", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.94873, 9.763198] }}
+,
+{"type": "Feature", "properties": {"uuid": "f4559236-059f-4a09-94b6-a60705f1122d", "countryname": "Gabon", "name": "Bongoville", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [12.05, 2.06667] }}
+,
+{"type": "Feature", "properties": {"uuid": "1154efdb-8dad-4a62-a74f-f5bc9ace5af5", "countryname": "Gabon", "name": "Booue", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.93333, -0.1] }}
+,
+{"type": "Feature", "properties": {"uuid": "ace9e494-924f-4d38-b2b0-2564df63afb7", "countryname": "Gabon", "name": "Boumango", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.61667, -2.23333] }}
+,
+{"type": "Feature", "properties": {"uuid": "8cdc585b-3c82-4015-b63d-efd7fc150e46", "countryname": "Chad", "name": "Aradib", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [18.9275, 13.5611111] }}
+,
+{"type": "Feature", "properties": {"uuid": "5bce20b4-401a-4774-a82a-f701338aa2dc", "countryname": "Gabon", "name": "Dilemba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.723, -3.213] }}
+,
+{"type": "Feature", "properties": {"uuid": "5979ef15-2b38-4300-b7e2-dab94a598db7", "countryname": "Gabon", "name": "Doussala", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.62811, -2.646926] }}
+,
+{"type": "Feature", "properties": {"uuid": "faafe5dc-b3ab-445b-b0d8-dd2409b8c6ed", "countryname": "Gabon", "name": "Fougamou", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.65, -1.633333] }}
+,
+{"type": "Feature", "properties": {"uuid": "9bc41fe3-886b-4ff0-a8a9-cca57d235981", "countryname": "Gabon", "name": "Franceville", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.601, -1.631] }}
+,
+{"type": "Feature", "properties": {"uuid": "7eb5a668-702f-4124-b8e6-06bd2c361cda", "countryname": "Uganda", "name": "Bubukwanga", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.03443, 0.46058] }}
+,
+{"type": "Feature", "properties": {"uuid": "24bc1541-ed1d-4e6c-974b-1e75e394bce6", "countryname": "Gabon", "name": "Gamba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [10.0, -2.648] }}
+,
+{"type": "Feature", "properties": {"uuid": "a3c4c734-4da9-4734-8f48-4868d5f9518a", "countryname": "Gabon", "name": "Koulamoutou", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [12.48333, -1.13333] }}
+,
+{"type": "Feature", "properties": {"uuid": "7f40230c-f8bf-4411-be3f-8121cb47c13d", "countryname": "Gabon", "name": "Koumou-Doussala", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [10.033333, 0.6] }}
+,
+{"type": "Feature", "properties": {"uuid": "4876c4e7-da5d-4fd3-bb98-9551b884b4d0", "countryname": "Gabon", "name": "Lambarene", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [10.21667, -0.7] }}
+,
+{"type": "Feature", "properties": {"uuid": "8783f3b3-70b1-416e-9ed1-38b04f2b775f", "countryname": "Gabon", "name": "Lastourville", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [12.7, -0.81667] }}
+,
+{"type": "Feature", "properties": {"uuid": "1018e53e-fdbe-4860-b1ae-4d01fd7f2c68", "countryname": "Gabon", "name": "Lebamba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.50569, -2.198793] }}
+,
+{"type": "Feature", "properties": {"uuid": "700cd2dc-de8d-47d8-8dc8-8b7a5255462e", "countryname": "Liberia", "name": "Solo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-7.650064, 4.5789139] }}
+,
+{"type": "Feature", "properties": {"uuid": "51864831-c240-44e7-b1f6-758865f39bf7", "countryname": "Gabon", "name": "Lekindou", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.8, -2.283333] }}
+,
+{"type": "Feature", "properties": {"uuid": "62381943-12ba-47b5-b3ea-d388751336d7", "countryname": "Gabon", "name": "Libreville", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [9.452, 0.391] }}
+,
+{"type": "Feature", "properties": {"uuid": "457bf678-6c57-4cb1-aea7-ad9083c1c5d4", "countryname": "Gabon", "name": "Lope", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.56667, -0.06667] }}
+,
+{"type": "Feature", "properties": {"uuid": "d3416d28-c9d3-46e7-a845-b08cb81072fd", "countryname": "Chad", "name": "Habile", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [20.8833333, 12.3333333] }}
+,
+{"type": "Feature", "properties": {"uuid": "38488160-951c-44bf-8ecd-584b041fc92a", "countryname": "Gabon", "name": "Mabanda", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.4801, -2.78897] }}
+,
+{"type": "Feature", "properties": {"uuid": "66848232-7a95-4f43-9a8f-4b1e7e927fbb", "countryname": "Ethiopia", "name": "Tongo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [34.2421597, 9.3398166] }}
+,
+{"type": "Feature", "properties": {"uuid": "fabae43c-7422-4e27-9ec9-465271d0bf20", "countryname": "Gabon", "name": "Makokou", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [12.86667, 0.56667] }}
+,
+{"type": "Feature", "properties": {"uuid": "13af9f4a-2ffb-472f-85a7-7159dfb488e5", "countryname": "Gabon", "name": "Mayumba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [10.657187, -3.425322] }}
+,
+{"type": "Feature", "properties": {"uuid": "ce211cf7-3dcd-47e0-92a6-47fb53eab2d8", "countryname": "Gabon", "name": "Mekambo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.93333, 1.01667] }}
+,
+{"type": "Feature", "properties": {"uuid": "7fc2feac-dfd5-4008-9ca8-6af3c07505ef", "countryname": "Chad", "name": "Gassire", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "ab312702-de81-4e60-8066-3ff190a92103", "countryname": "Gabon", "name": "Mitzic", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.56667, 0.78333] }}
+,
+{"type": "Feature", "properties": {"uuid": "51c82ba2-3f3f-49de-ac7b-7ae6b2789852", "countryname": "Chad", "name": "Abgadam", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [22.39539, 11.031771] }}
+,
+{"type": "Feature", "properties": {"uuid": "e94c6488-9390-44a3-9b09-5a30a6f01f8a", "countryname": "South Sudan", "name": "Gendrassa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [33.040297, 10.459025] }}
+,
+{"type": "Feature", "properties": {"uuid": "13377218-170c-4da5-8e81-587068578f31", "countryname": "Gabon", "name": "Moanda", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.227, -1.557] }}
+,
+{"type": "Feature", "properties": {"uuid": "3854d9fa-7fe1-4856-9255-6ae6f8d8f502", "countryname": "Gabon", "name": "Mouila", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.003, -1.884] }}
+,
+{"type": "Feature", "properties": {"uuid": "0c12483f-17c4-4581-b8c1-ff6cad033490", "countryname": "Gabon", "name": "Moulengui-Binza", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.344372, -3.222055] }}
+,
+{"type": "Feature", "properties": {"uuid": "6b676b22-c50e-493d-b0fd-281eaf2c48f8", "countryname": "Gabon", "name": "Mounana", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.142, -1.431] }}
+,
+{"type": "Feature", "properties": {"uuid": "66f9d656-977b-4ea5-a33d-833cf3f9cbe5", "countryname": "Gabon", "name": "Ndende", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.38858, -2.371501] }}
+,
+{"type": "Feature", "properties": {"uuid": "d59893d2-a83e-4b7b-95c1-01c8f112dd7a", "countryname": "Gabon", "name": "Ndjole", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [10.71667, -1.65] }}
+,
+{"type": "Feature", "properties": {"uuid": "c158fcf0-6dcb-4a5a-bec1-5bae035b98ec", "countryname": "Nigeria", "name": "Amana", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [7.666667, 10.716667] }}
+,
+{"type": "Feature", "properties": {"uuid": "752c5415-7cce-45f1-88ba-77ddbce470cd", "countryname": "Gabon", "name": "Ngouoni", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.983333, -2.33333] }}
+,
+{"type": "Feature", "properties": {"uuid": "7c836510-9330-400c-bf20-be63662b1538", "countryname": "South Sudan", "name": "Yusuf Batil", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [33.571128, 9.99644] }}
+,
+{"type": "Feature", "properties": {"uuid": "16c78fd8-6ed4-4183-a0db-24b21475b651", "countryname": "Gabon", "name": "Ntoum", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [9.78333, 0.38333] }}
+,
+{"type": "Feature", "properties": {"uuid": "efb3fc23-4d0a-47f0-8dff-d26eb156683f", "countryname": "South Sudan", "name": "Nyeel", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.772949, 9.492408] }}
+,
+{"type": "Feature", "properties": {"uuid": "98313036-e7f1-453e-86f1-b12233889bf0", "countryname": "Gabon", "name": "Nzinga", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.604, -2.977] }}
+,
+{"type": "Feature", "properties": {"uuid": "0fc2d90d-d6ac-48e3-a14a-e6d2ce529bbd", "countryname": "Gabon", "name": "Okondja", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.78333, -0.68333] }}
+,
+{"type": "Feature", "properties": {"uuid": "5898a4b9-0243-4824-8ba9-95b70d1c9f01", "countryname": "Gabon", "name": "Oyem", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.36667, 1.88333] }}
+,
+{"type": "Feature", "properties": {"uuid": "4f58c0ba-517c-4ced-adce-ceb1628fc044", "countryname": "Gabon", "name": "Pana", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [12.65, -1.68333] }}
+,
+{"type": "Feature", "properties": {"uuid": "f1ff07a9-0f81-46d5-a605-668d025e7169", "countryname": "Chad", "name": "Koubigou", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.416667, 12.2833333] }}
+,
+{"type": "Feature", "properties": {"uuid": "7df65ed2-63a9-4151-ac14-9bd3f2fd9817", "countryname": "Gabon", "name": "Port-Gentil", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [8.78, -0.722] }}
+,
+{"type": "Feature", "properties": {"uuid": "4e74e3aa-0c89-45f1-aa96-65eb8b2d3f14", "countryname": "Gabon", "name": "Rinanzala", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.699, -3.113] }}
+,
+{"type": "Feature", "properties": {"uuid": "356f6606-b8bc-4644-94dd-819ba846c5b1", "countryname": "Liberia", "name": "Little Wlebo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-7.7600059, 4.4359249] }}
+,
+{"type": "Feature", "properties": {"uuid": "7f7f6300-8230-4214-b843-7c82911bf6e0", "countryname": "Gabon", "name": "Sindara", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [10.66667, -1.03333] }}
+,
+{"type": "Feature", "properties": {"uuid": "bebd307a-b11f-467a-8862-45230d39181c", "countryname": "Gabon", "name": "Tchibanga", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.026, -2.857] }}
+,
+{"type": "Feature", "properties": {"uuid": "d7a2f511-d856-47e6-9208-41b539ea6b1c", "countryname": "Gabon", "name": "Voungou", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [11.71667, -3.28333] }}
+,
+{"type": "Feature", "properties": {"uuid": "96af399d-6f9c-4434-b1c1-f50167f981ab", "countryname": "Rwanda", "name": "Kigeme", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.343886, -2.281429] }}
+,
+{"type": "Feature", "properties": {"uuid": "bb21b4bb-3126-4338-9b92-aa5b0b7356d4", "countryname": "Rwanda", "name": "Nkamira", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.312589, -2.290954] }}
+,
+{"type": "Feature", "properties": {"uuid": "ef6b82d6-a10b-4db7-aaf0-3e7c78e3d781", "countryname": "Ethiopia", "name": "Bambasi", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [34.75, 9.75] }}
+,
+{"type": "Feature", "properties": {"uuid": "9c0a9735-5726-4062-879a-c83de1833e52", "countryname": "Rwanda", "name": "Nyagatare", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [28.5348, -2.286] }}
+,
+{"type": "Feature", "properties": {"uuid": "8d65ae5a-2b0c-47dc-ad0e-54ddfb9d7088", "countryname": "Rwanda", "name": "Gihembe", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.076111, -1.597778] }}
+,
+{"type": "Feature", "properties": {"uuid": "2bb0802e-3007-4524-baca-b92e53ee432c", "countryname": "Ethiopia", "name": "Sheder", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [43.62855, 9.315854] }}
+,
+{"type": "Feature", "properties": {"uuid": "ee883550-874c-4e53-acd5-29dee0aa774a", "countryname": "Rwanda", "name": "Kiziba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.4394, -2.16361] }}
+,
+{"type": "Feature", "properties": {"uuid": "f3d1e23c-030a-40b4-a8d1-217e492a2b2b", "countryname": "Rwanda", "name": "Nyabiheke", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.250556, -1.594444] }}
+,
+{"type": "Feature", "properties": {"uuid": "645d8f60-ae06-4415-a69e-8f45108e048d", "countryname": "Chad", "name": "N'Djamena", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [15.24022, 12.61727] }}
+,
+{"type": "Feature", "properties": {"uuid": "e1e25374-a271-4f33-9378-11117ab8216b", "countryname": "Chad", "name": "Iridimi", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [22.141074, 15.135454] }}
+,
+{"type": "Feature", "properties": {"uuid": "d437374c-901e-4a7e-9d52-0d39a7ee3f06", "countryname": "Chad", "name": "Amboko", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [16.58795, 7.940267] }}
+,
+{"type": "Feature", "properties": {"uuid": "a048b5d1-844d-4191-aa6a-3982bfbd9da5", "countryname": "Chad", "name": "Dosseye", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [16.4792, 8.1594] }}
+,
+{"type": "Feature", "properties": {"uuid": "150ee5bb-bb4d-4700-bd31-6692ea469e62", "countryname": "Chad", "name": "Gondje", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [16.548483, 7.958067] }}
+,
+{"type": "Feature", "properties": {"uuid": "d02ed6d1-931d-4df3-a551-3487ff745931", "countryname": "Chad", "name": "Yaroungou", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [18.700756, 8.400925] }}
+,
+{"type": "Feature", "properties": {"uuid": "2d2c2d7b-72b7-4365-afc7-35df17c289f0", "countryname": "Ethiopia", "name": "Buramino", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [41.847969, 4.355641] }}
+,
+{"type": "Feature", "properties": {"uuid": "0b144b0a-006c-4587-96b9-1e072dd668f8", "countryname": "Chad", "name": "Betimera", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "6b66b2c7-6c38-4967-b211-b49bd50b6bcb", "countryname": "Chad", "name": "Koloma", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [17.155833, 11.8025] }}
+,
+{"type": "Feature", "properties": {"uuid": "e4e0f144-c0c0-4d05-9ab7-25308bc2744c", "countryname": "Chad", "name": "Amnabak", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [22.339697, 14.810849] }}
+,
+{"type": "Feature", "properties": {"uuid": "e166c2e5-4002-4411-99cb-e4d14f68ca3a", "countryname": "Chad", "name": "Bredjing", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.713211, 13.486045] }}
+,
+{"type": "Feature", "properties": {"uuid": "c104cc18-0303-40e4-ac1c-8ee0f32915fd", "countryname": "Chad", "name": "Djabal", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.348086, 12.229066] }}
+,
+{"type": "Feature", "properties": {"uuid": "6545db23-65e5-4511-926c-c340116f10c7", "countryname": "Chad", "name": "Farchana", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.795496, 13.650876] }}
+,
+{"type": "Feature", "properties": {"uuid": "47021c1a-5469-4c21-8f70-123809c6edba", "countryname": "Chad", "name": "Gaga", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.447086, 13.763725] }}
+,
+{"type": "Feature", "properties": {"uuid": "3d3261ef-dfd1-43a6-ad4d-8c0a59a7e618", "countryname": "Ethiopia", "name": "Adamazine", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [34.823583, 10.6485758] }}
+,
+{"type": "Feature", "properties": {"uuid": "bb0078ed-a4a1-409d-b7c5-ec84fce83369", "countryname": "Kenya", "name": "Ifo 3", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "d2b8f581-1ffb-4714-802b-f59f322d0940", "countryname": "Chad", "name": "Goz Amer", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.761622, 12.008829] }}
+,
+{"type": "Feature", "properties": {"uuid": "b90db01d-3f38-4923-8540-a939c5c6bac9", "countryname": "Chad", "name": "Kounoungou", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.949847, 14.462966] }}
+,
+{"type": "Feature", "properties": {"uuid": "a0609095-aa64-4d9b-b09f-6adda0dda137", "countryname": "Chad", "name": "Mile", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.93, 14.595] }}
+,
+{"type": "Feature", "properties": {"uuid": "187f205c-fba4-4073-83e9-ed39b171c5b2", "countryname": "Chad", "name": "Oure Cassoni", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [23.026871, 15.732831] }}
+,
+{"type": "Feature", "properties": {"uuid": "41d03fbe-6b6b-4ca6-b3c8-ea27c46e57a4", "countryname": "Chad", "name": "Touloum", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [22.268329, 15.000688] }}
+,
+{"type": "Feature", "properties": {"uuid": "534a985c-0d47-49f8-a56a-87093de53675", "countryname": "Kenya", "name": "Ifo II West", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [40.30751, 0.14736] }}
+,
+{"type": "Feature", "properties": {"uuid": "cfd5eba9-e114-47d8-b2ad-ba8e012b9675", "countryname": "Chad", "name": "Treguine", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.645882, 13.430918] }}
+,
+{"type": "Feature", "properties": {"uuid": "31f7de67-9cd2-4a0d-985c-26da83afc5a1", "countryname": "Chad", "name": "Moula", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [17.425603, 9.121678] }}
+,
+{"type": "Feature", "properties": {"uuid": "66835c2b-a893-4f23-8739-9ab2112aa072", "countryname": "Chad", "name": "Daha", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [20.475, 9.21666] }}
+,
+{"type": "Feature", "properties": {"uuid": "2c45d4de-3e85-474d-90ff-6987d3a84ac9", "countryname": "Chad", "name": "Koy", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [20.845203, 9.863769] }}
+,
+{"type": "Feature", "properties": {"uuid": "6bc705e4-840d-4db8-800c-e884a416d957", "countryname": "Ethiopia", "name": "Melkadida", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [41.42783, 4.31145] }}
+,
+{"type": "Feature", "properties": {"uuid": "c86bb0c4-3d4c-4a55-bd8b-466d9f390cf2", "countryname": "Chad", "name": "Massambagne", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [20.86365, 9.48927] }}
+,
+{"type": "Feature", "properties": {"uuid": "aa9c8b65-edad-44fb-aedd-88b8e8067528", "countryname": null, "name": "Aysaita", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [41.431, 11.575] }}
+,
+{"type": "Feature", "properties": {"uuid": "cd10ef5f-9833-4ee2-8960-24bab0dcfa45", "countryname": null, "name": "Adi Harush", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [38.1261, 13.5985] }}
+,
+{"type": "Feature", "properties": {"uuid": "52fc376e-ca60-4838-9603-818492e6ed48", "countryname": "Djibouti", "name": "Ali Adde", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [42.9, 11.1167] }}
+,
+{"type": "Feature", "properties": {"uuid": "b3214fae-deaa-4bc1-88b1-3bc169ac702e", "countryname": "Djibouti", "name": "Holl Holl", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [42.928139, 11.30652] }}
+,
+{"type": "Feature", "properties": {"uuid": "fb6ea4d8-fa83-4da0-b6b0-acda84302be1", "countryname": "Eritrea", "name": "Asmara", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [38.925, 15.334] }}
+,
+{"type": "Feature", "properties": {"uuid": "8372b336-76ed-4680-ae32-bdf0660778da", "countryname": "Eritrea", "name": "Elit", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [37.023334, 15.216946] }}
+,
+{"type": "Feature", "properties": {"uuid": "4966edd0-ed28-4062-92d5-7ef812d6f06c", "countryname": "Eritrea", "name": "Emkulu", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [39.45417, 15.608649] }}
+,
+{"type": "Feature", "properties": {"uuid": "2842e988-81b8-4df9-ab3e-b1b8ba60e00c", "countryname": "Ethiopia", "name": "Kobe", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [41.44814, 4.2886] }}
+,
+{"type": "Feature", "properties": {"uuid": "760a32a2-dd6c-45ec-a32a-e1ae27478faa", "countryname": "Ethiopia", "name": "Shimelba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [37.724604, 14.168647] }}
+,
+{"type": "Feature", "properties": {"uuid": "00ae35f7-63a3-4e2b-a272-fb0e96955a4c", "countryname": "Ethiopia", "name": "Sherkole", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [34.62, 10.37] }}
+,
+{"type": "Feature", "properties": {"uuid": "2184f8ad-d7e0-4eda-a8e6-218e91c4e429", "countryname": "Ethiopia", "name": "Kebribeyah", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [43.1661, 9.10028] }}
+,
+{"type": "Feature", "properties": {"uuid": "4844ea68-865e-4761-b487-0971c48ecfcd", "countryname": "Sierra Leone", "name": "Jimmi Bagbo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "021157bf-7f9a-4083-955a-648fcb6186be", "countryname": "Ethiopia", "name": "Bokolmanyo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [42.2569, 4.114995] }}
+,
+{"type": "Feature", "properties": {"uuid": "38c72b27-3507-44ff-a700-312a2c0c2a16", "countryname": "Ethiopia", "name": "Mai Aini", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [42.531465, 9.471518] }}
+,
+{"type": "Feature", "properties": {"uuid": "4a7abe96-8ab7-44b8-939b-012e6a589e12", "countryname": "Ethiopia", "name": "Hilaweyn", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [41.51732, 4.22192] }}
+,
+{"type": "Feature", "properties": {"uuid": "41c26173-4572-4f6b-9a1b-a6ee5e68ace3", "countryname": "Benin", "name": "Kpomasse", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [2.0469151, 6.5101877] }}
+,
+{"type": "Feature", "properties": {"uuid": "d2513088-d93e-4eb3-bab4-08584779b11b", "countryname": "Ethiopia", "name": "Bonga", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [34.85242, 8.188496] }}
+,
+{"type": "Feature", "properties": {"uuid": "89788c69-9e53-4a58-856e-a17f7c31f6fa", "countryname": "Sierra Leone", "name": "Kenema", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-11.18523, 7.877183] }}
+,
+{"type": "Feature", "properties": {"uuid": "9a5186cf-a711-4583-b8a7-42d94de7b470", "countryname": "Ethiopia", "name": "Fugnido", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [34.23, 7.67] }}
+,
+{"type": "Feature", "properties": {"uuid": "aec07c1e-1205-472d-a113-77afc97f4c7a", "countryname": "Ethiopia", "name": "Dimma", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [35.184444, 6.502778] }}
+,
+{"type": "Feature", "properties": {"uuid": "8454ffad-e2bb-4477-b363-adc84d3e55b8", "countryname": "Ethiopia", "name": "Addis Ababa", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [38.444848, 9.12185] }}
+,
+{"type": "Feature", "properties": {"uuid": "be3cfa90-c993-40e0-8a52-8bf54ffbe60c", "countryname": "Kenya", "name": "Kambioos", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [40.357, -0.0391] }}
+,
+{"type": "Feature", "properties": {"uuid": "eebd7946-8811-4f68-b789-65a2ebf10998", "countryname": "Iraq", "name": "Kawergosk", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [43.811459, 36.34476] }}
+,
+{"type": "Feature", "properties": {"uuid": "f33da5e9-004c-4d83-8fbc-2ff96730d277", "countryname": "Sudan", "name": "Um Shalaya", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [22.980596, 13.120342] }}
+,
+{"type": "Feature", "properties": {"uuid": "76dd597a-182b-472c-80d7-e5f7ab187f8b", "countryname": "Ethiopia", "name": "Awbarre", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [42.9278689466, 9.45918189591] }}
+,
+{"type": "Feature", "properties": {"uuid": "a51f8937-1b40-47fb-93bf-8f0ff18fd935", "countryname": "Sudan", "name": "Kilo 26", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [35.7625, 15.0781] }}
+,
+{"type": "Feature", "properties": {"uuid": "71dc93cf-f6df-416b-8d18-9966b322317a", "countryname": "Sierra Leone", "name": "Largo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-12.1489787, 8.2727445] }}
+,
+{"type": "Feature", "properties": {"uuid": "1b9430d8-8a47-49e8-964c-fd6b5b998228", "countryname": "Kenya", "name": "Dagahaley", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [40.2881, 0.191389] }}
+,
+{"type": "Feature", "properties": {"uuid": "15ff5e28-9339-4aef-b0b3-d8c1a4518a7e", "countryname": "Kenya", "name": "Hagadera", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [40.35, 0.001111] }}
+,
+{"type": "Feature", "properties": {"uuid": "da6202e8-906d-4db7-a778-6af62367e786", "countryname": "South Sudan", "name": "Yida", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.089444, 10.103036] }}
+,
+{"type": "Feature", "properties": {"uuid": "d9cd3153-344a-4f08-a3a8-be35ed31c52f", "countryname": "Kenya", "name": "Ifo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [40.3131, 0.108611] }}
+,
+{"type": "Feature", "properties": {"uuid": "4e9877ab-67f9-4ac4-a286-d0f5cfee24c0", "countryname": "Kenya", "name": "Ifo 2", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [40.3131, 0.108611] }}
+,
+{"type": "Feature", "properties": {"uuid": "857b4857-b50f-4e48-8261-3fc34625e597", "countryname": "Kenya", "name": "Nairobi", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [36.815, -1.284] }}
+,
+{"type": "Feature", "properties": {"uuid": "b9aad2d7-0345-4e31-a670-2081b0dd8bcf", "countryname": "Kenya", "name": "Kakuma", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [34.86887244, 3.712628202] }}
+,
+{"type": "Feature", "properties": {"uuid": "5f4cfbb2-ec2c-4cf9-9e53-22a39a252479", "countryname": "Sudan", "name": "Mukjar", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [23.311763, 11.994735] }}
+,
+{"type": "Feature", "properties": {"uuid": "f0f7c67a-2c3e-4677-869b-4e419fe99646", "countryname": "Sudan", "name": "Abuda", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [35.8897, 14.3525] }}
+,
+{"type": "Feature", "properties": {"uuid": "fd2c6109-eb6c-482d-95e3-90168e7f340f", "countryname": "Sudan", "name": "Fau 5", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [33.9444, 14.4233] }}
+,
+{"type": "Feature", "properties": {"uuid": "ac8371e4-808c-4389-aa85-cdb2016eb262", "countryname": "Sudan", "name": "Girba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [35.9061, 14.9778] }}
+,
+{"type": "Feature", "properties": {"uuid": "b6b8970b-8d54-47c6-9d13-f4a74a5f4263", "countryname": "Togo", "name": "Tandjouare 2", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "15958ccb-9d25-4524-a348-03b273863544", "countryname": "Sudan", "name": "Shagarab I II III", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [35.9803, 14.7597] }}
+,
+{"type": "Feature", "properties": {"uuid": "21ff9cd2-5ea2-47ba-9849-1a7e0524e653", "countryname": "Tanzania", "name": "Nyarugusu", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.3846, -4.22092] }}
+,
+{"type": "Feature", "properties": {"uuid": "ac9cb8fe-3c3c-41eb-b85e-baf268b61e2d", "countryname": "Sudan", "name": "Suki", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [34.694635, 14.416119] }}
+,
+{"type": "Feature", "properties": {"uuid": "0205d738-1287-4dc3-a720-b9f92198e0ac", "countryname": "South Sudan", "name": "Gorom", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [31.5810867, 4.7174426666] }}
+,
+{"type": "Feature", "properties": {"uuid": "ba335377-6d3a-44bf-83c1-a6bd8f7fd71b", "countryname": "Sudan", "name": "Um Gargour", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [35.6361, 14.5092] }}
+,
+{"type": "Feature", "properties": {"uuid": "f61e75d5-dd43-4ed8-a8e7-349ab34113fd", "countryname": "South Sudan", "name": "Doro", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [33.825531, 9.976653] }}
+,
+{"type": "Feature", "properties": {"uuid": "93d7307e-e812-4bc9-9be1-155893ad0c77", "countryname": "Sudan", "name": "Wad Sharifey", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [36.4472, 15.3606] }}
+,
+{"type": "Feature", "properties": {"uuid": "b79d3116-f11f-4455-95c6-f10bc05bf691", "countryname": "Sierra Leone", "name": "Taiama", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-12.058972, 8.199311] }}
+,
+{"type": "Feature", "properties": {"uuid": "db2696f2-867d-40e9-83e2-0076526a1440", "countryname": "South Sudan", "name": "Ezo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [27.275985, 5.4623] }}
+,
+{"type": "Feature", "properties": {"uuid": "01c1d1d7-f71d-4701-b7db-4f3281e017f6", "countryname": "Ghana", "name": "Krisan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-2.4616508, 4.9629987] }}
+,
+{"type": "Feature", "properties": {"uuid": "20c1ff45-9d07-4043-a64c-731af84dd743", "countryname": "Sudan", "name": "Gedarif", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [35.226, 14.16] }}
+,
+{"type": "Feature", "properties": {"uuid": "a5d17c6b-083b-4279-a9a7-69a289f13041", "countryname": "Sudan", "name": "Karkora", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [35.6622, 14.6147] }}
+,
+{"type": "Feature", "properties": {"uuid": "cab90446-c698-4f39-bf97-fc8f31f608e6", "countryname": "Sudan", "name": "Khartoum (Abu Rakham)", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [32.315607, 15.33036] }}
+,
+{"type": "Feature", "properties": {"uuid": "40bf147c-19b2-454d-886b-74230c7664df", "countryname": "Liberia", "name": "Bahn", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-8.720179, 7.086704] }}
+,
+{"type": "Feature", "properties": {"uuid": "66299189-a94b-4648-924b-d5e6ce21361a", "countryname": "Sudan", "name": "Khartoum (Laffa-Gulsa)", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [32.38397, 15.22754] }}
+,
+{"type": "Feature", "properties": {"uuid": "427b1906-a744-49e7-91fb-4a5e53ed9254", "countryname": "Sierra Leone", "name": "Tobanda", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-11.368578, 7.807066] }}
+,
+{"type": "Feature", "properties": {"uuid": "6f8cddab-d854-4243-8c20-299722f0a3dd", "countryname": "Sudan", "name": "Port Sudan", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [37.2142, 19.5793] }}
+,
+{"type": "Feature", "properties": {"uuid": "993e4b25-6b41-461a-ad89-062f3962c136", "countryname": "Burkina Faso", "name": "Mentao", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-1.683333, 13.95] }}
+,
+{"type": "Feature", "properties": {"uuid": "82b74286-c3cb-4a00-b0da-1677bffaf74a", "countryname": "Sudan", "name": "Um Ali", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [35.9208, 14.2856] }}
+,
+{"type": "Feature", "properties": {"uuid": "bf743b78-e2ca-4912-acf9-a1e94fe15c1d", "countryname": "Sudan", "name": "Um Sagata", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [35.0586, 13.3183] }}
+,
+{"type": "Feature", "properties": {"uuid": "e6dbe6b7-5ef0-48e3-8df3-8b382520357b", "countryname": "Liberia", "name": "Ziah", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-7.8537954, 5.7477122] }}
+,
+{"type": "Feature", "properties": {"uuid": "1aa684b5-7df7-457c-8b78-ce7579091fcc", "countryname": "Liberia", "name": "PTP", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-8.009053, 5.982797] }}
+,
+{"type": "Feature", "properties": {"uuid": "95285b63-a5e5-42dd-934d-1d0324b2e495", "countryname": "Sudan", "name": "Wad El Hileau", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [36.0336, 14.2231] }}
+,
+{"type": "Feature", "properties": {"uuid": "872b5313-99c1-4b46-a744-59ca81e13e2a", "countryname": "Somalia", "name": "North East", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [48.494716, 7.57331] }}
+,
+{"type": "Feature", "properties": {"uuid": "d6a48a99-67e3-4039-b3d3-117762ea1828", "countryname": "Niger", "name": "Tilla", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [4.78006, 16.1444] }}
+,
+{"type": "Feature", "properties": {"uuid": "e6e1934a-3364-400c-a9b8-6b768c1cf203", "countryname": "Somalia", "name": "North West", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [46.42713, 9.35537] }}
+,
+{"type": "Feature", "properties": {"uuid": "3dc12e14-1cc6-4f7a-b909-629c58c02a1f", "countryname": "South Sudan", "name": "Lasu", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.464752658399998, 3.9466624865] }}
+,
+{"type": "Feature", "properties": {"uuid": "92f59978-2373-40a1-aa55-52b91f9b0066", "countryname": "South Sudan", "name": "Makpandu", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [28.70145, 4.751217] }}
+,
+{"type": "Feature", "properties": {"uuid": "7db48811-13de-49af-9896-fdd536533e39", "countryname": "South Sudan", "name": "Kaya", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [33.211147, 9.909486] }}
+,
+{"type": "Feature", "properties": {"uuid": "76064fb9-27b4-421c-bc5a-6b0b0700f258", "countryname": "South Sudan", "name": "Lologo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [31.5810867, 4.7174426666] }}
+,
+{"type": "Feature", "properties": {"uuid": "1e7182f6-a31a-4f19-baea-636ccbf6b8f0", "countryname": "Tanzania", "name": "Chogo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [38.5666, -5.4666] }}
+,
+{"type": "Feature", "properties": {"uuid": "386fb5f1-3363-4714-8832-d3da7020033f", "countryname": "Tanzania", "name": "Katumba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [31.16, -6.196] }}
+,
+{"type": "Feature", "properties": {"uuid": "08cd1952-e219-4dd6-8803-04306c263391", "countryname": "Togo", "name": "Lome", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [1.2125, 6.1377778] }}
+,
+{"type": "Feature", "properties": {"uuid": "5242a68c-3aea-46ec-a761-c5b8eb5df0d6", "countryname": "Tanzania", "name": "Mishamo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.41, -5.41] }}
+,
+{"type": "Feature", "properties": {"uuid": "51eb4829-2509-468d-b84e-09f593708116", "countryname": "Tanzania", "name": "Ulyankulu", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [32.191708, -4.452092] }}
+,
+{"type": "Feature", "properties": {"uuid": "c99b19b7-8d84-45f2-abe4-c7ae5e061e0d", "countryname": "Tanzania", "name": "Lukole", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.800433411115801, -2.59445882407017] }}
+,
+{"type": "Feature", "properties": {"uuid": "247bdbb4-2530-4c16-a670-ef72d5fa8e04", "countryname": "Tanzania", "name": "Kanembwa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.8458, -3.50974] }}
+,
+{"type": "Feature", "properties": {"uuid": "b256c9b6-6c7c-4a46-8e89-7b98135db0d7", "countryname": null, "name": "Nyakabande", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.7411562, -1.2775333] }}
+,
+{"type": "Feature", "properties": {"uuid": "4ffd007e-0a1a-40c8-887c-5469906b97f3", "countryname": "Tanzania", "name": "Mkugwa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.6228, -3.87635] }}
+,
+{"type": "Feature", "properties": {"uuid": "41a3d1bd-e2a8-435d-b669-f61c21c76280", "countryname": "Tanzania", "name": "Mtendeli", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.8871, -3.42658] }}
+,
+{"type": "Feature", "properties": {"uuid": "06cda3e7-c910-4fe4-bd4d-a4a1b06be459", "countryname": "Burkina Faso", "name": "Goudebo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-0.033056, 14.183056] }}
+,
+{"type": "Feature", "properties": {"uuid": "cd4e4da9-e760-4d76-80d9-2056d8e8a3ad", "countryname": "Tanzania", "name": "Nduta", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.7893, -3.68859] }}
+,
+{"type": "Feature", "properties": {"uuid": "9d67afc0-71eb-4946-a134-376d41b3c1fc", "countryname": "Angola", "name": "Moxico", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [20.195117, -13.254569] }}
+,
+{"type": "Feature", "properties": {"uuid": "0d94e5f7-888a-41c0-867f-f49609ff1aec", "countryname": "Tanzania", "name": "Mtabila", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.2121001166737, -4.45694764814035] }}
+,
+{"type": "Feature", "properties": {"uuid": "c7ea5eaf-8a6e-4326-b731-880eb799eb87", "countryname": "Burkina Faso", "name": "Sag-Nionigo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-1.745453, 12.506303] }}
+,
+{"type": "Feature", "properties": {"uuid": "f1db1fac-44a6-46f8-a8bb-a7f45fd404df", "countryname": "Tanzania", "name": "Mtabila II", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.1997375128763, -4.50083212839087] }}
+,
+{"type": "Feature", "properties": {"uuid": "4633396f-d4dc-40dd-bcbe-e60453673824", "countryname": "Uganda", "name": "Rwamwanja", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.684119, 0.506092] }}
+,
+{"type": "Feature", "properties": {"uuid": "b53dffbc-2c1a-422e-96a8-5e3e652624cd", "countryname": "Tanzania", "name": "Muyovosi", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.2868, -4.3962] }}
+,
+{"type": "Feature", "properties": {"uuid": "898d7c0c-e466-4cde-b35c-d35f52e4cfbc", "countryname": "Togo", "name": "Golfe", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [1.1929114, 6.215023] }}
+,
+{"type": "Feature", "properties": {"uuid": "812f78df-10f3-460f-ad4f-881cad32d6f9", "countryname": "Tanzania", "name": "Lugufu", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.235702464877399, -5.08612952721886] }}
+,
+{"type": "Feature", "properties": {"uuid": "d538aa14-60c7-4338-96d1-c36ccfc53023", "countryname": "Tanzania", "name": "Lugufu II", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.208206443574799, -5.14193027633283] }}
+,
+{"type": "Feature", "properties": {"uuid": "32277c1c-1117-4ecc-b176-9902e227fc6d", "countryname": "Uganda", "name": "Kampala", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [32.346, 0.19] }}
+,
+{"type": "Feature", "properties": {"uuid": "8f9a0bb5-63c1-43c9-9a30-54a440d7773e", "countryname": "Angola", "name": "Malange", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [16.202778, -9.322995] }}
+,
+{"type": "Feature", "properties": {"uuid": "b9263d90-844b-4663-9d1b-df413a971081", "countryname": "Uganda", "name": "Kyangwali", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.812695, 1.211136] }}
+,
+{"type": "Feature", "properties": {"uuid": "8c4f1496-888a-4801-8fb0-bfe2b8fc6685", "countryname": "Uganda", "name": "Rhino Camp", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [31.384081, 2.976123] }}
+,
+{"type": "Feature", "properties": {"uuid": "5ddc8d7d-7a31-4676-a6ff-b864db8c43d8", "countryname": "Burkina Faso", "name": "Damba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-1.2736111, 14.7369444] }}
+,
+{"type": "Feature", "properties": {"uuid": "23acee8f-301b-43a9-8df3-027136bcdef3", "countryname": "Uganda", "name": "Oruchinga", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.637274, -0.961159] }}
+,
+{"type": "Feature", "properties": {"uuid": "96e41c51-6671-45ba-b4d6-ef189011fbdd", "countryname": "Jordan", "name": "Za'atri", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [36.155, 32.18] }}
+,
+{"type": "Feature", "properties": {"uuid": "28a90cec-de26-4b87-a370-b5eebda3720b", "countryname": "Uganda", "name": "Imvepi", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [31.27121, 3.196258] }}
+,
+{"type": "Feature", "properties": {"uuid": "e14f82d6-0337-47fe-88a2-effcca141a79", "countryname": "Ecuador", "name": "Orellana", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-76.984167, -0.4625] }}
+,
+{"type": "Feature", "properties": {"uuid": "739800ab-00c7-4a03-aeb9-459db90d50f5", "countryname": "Uganda", "name": "Madi Okollo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [31.136057, 2.671248] }}
+,
+{"type": "Feature", "properties": {"uuid": "62a07be7-32cd-4290-9126-9a0d406ff154", "countryname": "Uganda", "name": "Palorinya", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [31.573807, 3.445269] }}
+,
+{"type": "Feature", "properties": {"uuid": "ae85438e-0511-453e-87e2-68ed40400b24", "countryname": "Liberia", "name": "Dougee", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-8.544478, 6.261986] }}
+,
+{"type": "Feature", "properties": {"uuid": "40f5becf-dfcf-47a8-a7e2-c041a3b66963", "countryname": "Iran", "name": "Khorasan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [54.0053666, 26.5404213] }}
+,
+{"type": "Feature", "properties": {"uuid": "535ed8c9-42f0-4fc2-8fb0-002f4b370819", "countryname": "Uganda", "name": "Adjumani", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [31.785779, 3.360719] }}
+,
+{"type": "Feature", "properties": {"uuid": "a5a49a78-dc37-45a9-8f87-d6fd393ae3d6", "countryname": "Niger", "name": "Intékan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [4.451723, 15.505876] }}
+,
+{"type": "Feature", "properties": {"uuid": "4e9e4830-cc9a-4f15-a812-838ad7e5fa1e", "countryname": "Uganda", "name": "Kyaka II", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [31.187543, 0.413357] }}
+,
+{"type": "Feature", "properties": {"uuid": "597060df-8c32-4ab6-b7b4-00490e6da6b3", "countryname": "Uganda", "name": "Kiryandongo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [32.051409, 1.892023] }}
+,
+{"type": "Feature", "properties": {"uuid": "d3a1392f-3ce0-45ef-ba5f-7676cde6e2d0", "countryname": "Uganda", "name": "Ikafe", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [31.40394, 3.377858] }}
+,
+{"type": "Feature", "properties": {"uuid": "4f1457ee-ad7a-4316-85c3-fcd815b01e6a", "countryname": "Nigeria", "name": "Maiduguri", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.15, 11.8333333] }}
+,
+{"type": "Feature", "properties": {"uuid": "d0e4254f-c870-4588-9aa6-26f7917f0e2d", "countryname": "Angola", "name": "Luanda Province", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [13.441491, -8.484865] }}
+,
+{"type": "Feature", "properties": {"uuid": "e4063834-5a40-40de-9ba1-7e4427978e45", "countryname": "Uganda", "name": "Nakivale Camp", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.949444, -0.776389] }}
+,
+{"type": "Feature", "properties": {"uuid": "d9c533d7-4146-4b42-8933-77f336597021", "countryname": "Angola", "name": "Lunda Norte", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [19.111682, -8.21901] }}
+,
+{"type": "Feature", "properties": {"uuid": "066a1be2-0ebd-497f-a4de-1b77f97b9b55", "countryname": "Angola", "name": "Lunda Sul", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [20.424409, -10.171197] }}
+,
+{"type": "Feature", "properties": {"uuid": "28f11ea8-1417-490c-97d5-e8f361039b92", "countryname": "Ghana", "name": "Buduburam", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-0.466667, 5.53333] }}
+,
+{"type": "Feature", "properties": {"uuid": "d53d0d59-f7c9-4f63-8fd7-bcd24f830400", "countryname": "Angola", "name": "Viana", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.382338, -8.942756] }}
+,
+{"type": "Feature", "properties": {"uuid": "850c4186-a3c0-4d05-abd6-4e92c6f1b801", "countryname": "Benin", "name": "Agame", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [1.948256, 6.693031] }}
+,
+{"type": "Feature", "properties": {"uuid": "602943b8-b45f-4c6a-8d78-7a99b9380dc1", "countryname": "Botswana", "name": "Dukwi", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [26.4975, -20.582222] }}
+,
+{"type": "Feature", "properties": {"uuid": "f781198f-9fba-43db-a023-6ccab3b31b49", "countryname": "Burkina Faso", "name": "Fererio", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-0.65, 14.83333] }}
+,
+{"type": "Feature", "properties": {"uuid": "3006ae85-d68c-4daf-9116-08201217b5cd", "countryname": "Ghana", "name": "Fetentaa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-2.67106, 7.47068] }}
+,
+{"type": "Feature", "properties": {"uuid": "285fe783-156e-4758-8bb8-54917125a843", "countryname": "Botswana", "name": "Gaborone", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [25.907, -24.653] }}
+,
+{"type": "Feature", "properties": {"uuid": "78435231-6a7a-438c-a3a0-93f18e3ed532", "countryname": "Malawi", "name": "Dzaleka", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [33.865886, -13.662754] }}
+,
+{"type": "Feature", "properties": {"uuid": "9fd74519-ed0f-4f26-8dd9-84f047bceb88", "countryname": "Malawi", "name": "Lilongwe", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [33.78333, -13.98333] }}
+,
+{"type": "Feature", "properties": {"uuid": "d49ab1dc-6b1e-4915-84d4-54c90eeafe9a", "countryname": "Niger", "name": "Yassan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.85, 14.916667] }}
+,
+{"type": "Feature", "properties": {"uuid": "77a60e75-5e2e-4868-a4c2-5be2563ee2fc", "countryname": "Mozambique", "name": "Maratane", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [39.16, -15.7] }}
+,
+{"type": "Feature", "properties": {"uuid": "05531462-c232-40e5-a56e-9423ea877687", "countryname": "Namibia", "name": "Osire", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [16.564489, -19.464535] }}
+,
+{"type": "Feature", "properties": {"uuid": "f06861f6-8ef6-4a6c-a240-dd381212e538", "countryname": "Zambia", "name": "Kala", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.087215, -9.689807] }}
+,
+{"type": "Feature", "properties": {"uuid": "fd0bddb6-ebe1-4d16-91e6-8c33190bd518", "countryname": "Zambia", "name": "Mwange", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [29.859154, -9.462889] }}
+,
+{"type": "Feature", "properties": {"uuid": "31017ae2-efa6-4f2f-8750-3b54d0280409", "countryname": "Zambia", "name": "Lusaka", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [28.28333, -15.41667] }}
+,
+{"type": "Feature", "properties": {"uuid": "18f76234-231d-467d-8799-d2f706dd51b3", "countryname": "Zambia", "name": "Meheba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [25.7, -12.4] }}
+,
+{"type": "Feature", "properties": {"uuid": "f3c4fe29-b1a1-4d64-a1d6-e4043ecad8ca", "countryname": "Zambia", "name": "Mayukwayukwa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [24.0, -14.5] }}
+,
+{"type": "Feature", "properties": {"uuid": "b1226cdf-2bf5-477a-bf56-91174092fc2f", "countryname": "Zimbabwe", "name": "Harare", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [31.31426, -17.494519] }}
+,
+{"type": "Feature", "properties": {"uuid": "c9459956-d629-436e-b2e8-d2c58153ca9e", "countryname": "Zimbabwe", "name": "Tongogara", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [32.357383, -20.261911] }}
+,
+{"type": "Feature", "properties": {"uuid": "1e277054-ede8-48ac-b256-c63053e90ab4", "countryname": "Burkina Faso", "name": "Gandafabou", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-0.7, 14.73333] }}
+,
+{"type": "Feature", "properties": {"uuid": "1140f810-c5dd-4e5d-93bf-d161e50101e1", "countryname": "Cote d'Ivoire", "name": "Abidjan", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-4.032, 5.334] }}
+,
+{"type": "Feature", "properties": {"uuid": "2359cf58-fa3a-4f17-8d19-17b6b4dc07d4", "countryname": "Cote d'Ivoire", "name": "Guiglo", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [7.285777, 6.323608] }}
+,
+{"type": "Feature", "properties": {"uuid": "5b24257c-bbf4-482b-adb1-cecca9581c0b", "countryname": "Niger", "name": "Agando", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "02822e77-f2ff-4910-a117-88b319e6ce71", "countryname": "Cote d'Ivoire", "name": "Nicla", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-7.478817, 6.499883] }}
+,
+{"type": "Feature", "properties": {"uuid": "5fd0bd17-651c-40b2-a67a-3e4703a1d786", "countryname": "Niger", "name": "Chinagodrar", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [3.0, 15.233333] }}
+,
+{"type": "Feature", "properties": {"uuid": "7c6adebc-bc9b-4b4e-8cc9-e4780db4387a", "countryname": "Cote d'Ivoire", "name": "Tabou", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-7.357, 4.418] }}
+,
+{"type": "Feature", "properties": {"uuid": "8fa25f33-7ba0-4e2e-8859-bb5cadf062ee", "countryname": "Nigeria", "name": "Oru Camp", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [3.9215541, 6.9423589] }}
+,
+{"type": "Feature", "properties": {"uuid": "ca26824e-5454-4912-818d-d3f9905887d9", "countryname": "Ghana", "name": "Ampain", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "cdf1f9ee-fe0d-4093-bc75-2ff0795c4008", "countryname": "Nigeria", "name": "Ituav", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "41ea07d8-bb15-4867-98ce-07293cb63051", "countryname": "Ghana", "name": "Egyeikrom", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-1.45, 5.1] }}
+,
+{"type": "Feature", "properties": {"uuid": "5a47b164-9ea0-425c-9a31-5f8c7bbf0916", "countryname": "Iraq", "name": "Gawilan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [43.614474, 36.339055] }}
+,
+{"type": "Feature", "properties": {"uuid": "7f62171b-2264-497b-90d2-7594b68aa791", "countryname": "Guinea", "name": "Boreah", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-9.955298, 9.469527] }}
+,
+{"type": "Feature", "properties": {"uuid": "1694602f-ff8e-4356-a765-c10453d79b98", "countryname": "Guinea", "name": "Conakry", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-13.673, 9.551] }}
+,
+{"type": "Feature", "properties": {"uuid": "0cf7025f-ecd2-4b88-8dcf-3d68b2cc26e6", "countryname": "Niger", "name": "Abala", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [3.433727, 14.92768] }}
+,
+{"type": "Feature", "properties": {"uuid": "bd4e6710-709c-4ee3-ad4b-602fa7ee6f36", "countryname": "Guinea", "name": "Nzerekore", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-8.818018, 7.754822] }}
+,
+{"type": "Feature", "properties": {"uuid": "d5f6edf7-e229-43fc-850f-7f372cc66584", "countryname": "Sierra Leone", "name": "Bo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-11.7409946, 7.9551791] }}
+,
+{"type": "Feature", "properties": {"uuid": "4731a7d8-373a-4ff5-a28c-2182a866669c", "countryname": "Guinea", "name": "Laine", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-8.441111, 9.129722] }}
+,
+{"type": "Feature", "properties": {"uuid": "5bb48d77-9fa9-4fb6-9d19-83f1e1fddc8d", "countryname": "Sierra Leone", "name": "Bandajuma", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-10.8486743, 8.3111685] }}
+,
+{"type": "Feature", "properties": {"uuid": "51aeffe7-2baf-4d65-ae2d-fdafc79f822f", "countryname": "Guinea", "name": "Kouankan I", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-9.1418, 8.4451] }}
+,
+{"type": "Feature", "properties": {"uuid": "abf8651e-a872-47c6-aa9c-d2718dba5b73", "countryname": "Sierra Leone", "name": "Jembe", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-11.433333, 7.916667] }}
+,
+{"type": "Feature", "properties": {"uuid": "e2a9145f-ab32-4a4f-a753-e99adb7693b5", "countryname": "Guinea", "name": "Kouankan II", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-9.241360289, 8.37405528] }}
+,
+{"type": "Feature", "properties": {"uuid": "1f1e912e-e47a-4610-8e18-7122569a4c28", "countryname": "Guinea-Bissau", "name": "Bissau", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-15.6, 11.86667] }}
+,
+{"type": "Feature", "properties": {"uuid": "623486d1-c10d-4b64-8491-24954fee60cb", "countryname": "Niger", "name": "Tazalit", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [5.144805, 16.541852] }}
+,
+{"type": "Feature", "properties": {"uuid": "1432da2c-cf14-4d57-8fd2-ceded5ed1df3", "countryname": "Niger", "name": "Mangaizé", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [1.954201, 14.68153] }}
+,
+{"type": "Feature", "properties": {"uuid": "78125fee-712f-497c-bc26-3e944bb6e425", "countryname": "Niger", "name": "Tabareybarey", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.551341, 14.44309] }}
+,
+{"type": "Feature", "properties": {"uuid": "2cf78f3a-220b-4c51-989a-f523351b2a0c", "countryname": "Sierra Leone", "name": "Freetown", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-13.22867, 8.484146] }}
+,
+{"type": "Feature", "properties": {"uuid": "edbfa5f7-87d7-47b2-8278-3bbc9a1d178f", "countryname": "Sierra Leone", "name": "Gerihun", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-11.579117, 7.932611] }}
+,
+{"type": "Feature", "properties": {"uuid": "16f5776e-b5d2-4afd-bee8-fbfe89dc1659", "countryname": "Sierra Leone", "name": "Gondama", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-12.26981414, 7.8377052] }}
+,
+{"type": "Feature", "properties": {"uuid": "b86aaebf-922d-4019-9a33-614e6295615c", "countryname": "Argentina", "name": "Urban", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-63.616672, -38.416097] }}
+,
+{"type": "Feature", "properties": {"uuid": "8b17292c-7bba-4388-8888-a54652325a3f", "countryname": "Brazil", "name": "Urban", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-55.0, -10.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "9f240e3f-e038-417b-b8e5-e9f48924fc89", "countryname": "Colombia", "name": "Urban", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-74.297097, 4.569903] }}
+,
+{"type": "Feature", "properties": {"uuid": "3b0134ed-d50c-4aea-9efb-5f30622c1f07", "countryname": "Costa Rica", "name": "San Jose", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-84.46, 9.556] }}
+,
+{"type": "Feature", "properties": {"uuid": "89225276-9d74-4ade-bafe-e810533766fd", "countryname": "Dominican Republic", "name": "Santo Domingo", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-69.9833333, 18.5] }}
+,
+{"type": "Feature", "properties": {"uuid": "e79856f3-d2a6-4fad-addb-4587457e390f", "countryname": "Dominican Republic", "name": "Monte Plata", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-69.79, 18.81] }}
+,
+{"type": "Feature", "properties": {"uuid": "ba29812d-7120-4b74-ae7e-bac4d795dbb4", "countryname": "Ecuador", "name": "Sucumbios", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-76.882778, -0.084722] }}
+,
+{"type": "Feature", "properties": {"uuid": "1fa8d757-b94c-440e-b915-01db59ee8b0c", "countryname": "Mexico", "name": "Mexico City", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-99.73926, 19.253738] }}
+,
+{"type": "Feature", "properties": {"uuid": "5c96350b-8b89-46aa-a835-a9009fcd7bc1", "countryname": "Iran", "name": "Ilam", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [46.4227778, 33.6375] }}
+,
+{"type": "Feature", "properties": {"uuid": "4c006d1e-92a8-485c-823d-2c560a8cb868", "countryname": "Panama", "name": "Darien", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-77.444275, 8.275622] }}
+,
+{"type": "Feature", "properties": {"uuid": "ebf5ebc8-40cf-4439-9ea2-af5dc2781ba5", "countryname": "Panama", "name": "Embera", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-79.343792, 9.135451] }}
+,
+{"type": "Feature", "properties": {"uuid": "1b18c70d-28e6-4b1b-823b-1a86bc09fd92", "countryname": "Panama", "name": "Panama City", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-79.3111, 8.5936] }}
+,
+{"type": "Feature", "properties": {"uuid": "cf85fc56-dca8-4f49-9016-5885e714fff3", "countryname": "Panama", "name": "Puerto Obaldia", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-77.25012, 8.40001] }}
+,
+{"type": "Feature", "properties": {"uuid": "4d4af9e3-0a76-4575-b3e4-1fab2a1df4fb", "countryname": "Venezuela", "name": "Apure", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-71.901, 7.283] }}
+,
+{"type": "Feature", "properties": {"uuid": "89077a32-eb17-4a76-84f3-9be310b3b78b", "countryname": "Tajikistan", "name": "Dushanbe", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [68.78, 38.5366667] }}
+,
+{"type": "Feature", "properties": {"uuid": "765ed1e5-4365-481a-9592-b1e4969f1063", "countryname": "Venezuela", "name": "Caracas", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-66.921, 10.496] }}
+,
+{"type": "Feature", "properties": {"uuid": "fe47d8a3-4e1e-4cfd-8bd2-de78097735a0", "countryname": "Venezuela", "name": "Tachira", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-71.934, 7.55] }}
+,
+{"type": "Feature", "properties": {"uuid": "9b0ffd4d-fad8-48f5-8cb8-64a29b07389b", "countryname": "Venezuela", "name": "Zulia", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-71.638, 10.646] }}
+,
+{"type": "Feature", "properties": {"uuid": "8753ed4d-ac1f-4299-8762-abdf989d1401", "countryname": "Venezuela", "name": "Urban", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-66.0, 8.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "cdd2180d-719d-4c4e-a7c3-35c8037b1c41", "countryname": "Kyrgyzstan", "name": "Bishkek", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [74.573, 42.864] }}
+,
+{"type": "Feature", "properties": {"uuid": "b2bc40ac-4ab6-4140-8d0d-d8e6ef04b52f", "countryname": "Kyrgyzstan", "name": "Chui region", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [74.361, 42.5223] }}
+,
+{"type": "Feature", "properties": {"uuid": "e9fd5ed5-f3dc-4ad3-98af-b802e40b1337", "countryname": "Kyrgyzstan", "name": "Osh", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [72.79, 40.52944] }}
+,
+{"type": "Feature", "properties": {"uuid": "dec6ce66-1865-4cac-a4e4-4c682b3cf648", "countryname": "Kazakhstan", "name": "Astana", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [71.4333333, 51.1666667] }}
+,
+{"type": "Feature", "properties": {"uuid": "f4521351-795b-4236-82f7-252cef11bdd7", "countryname": "Iran", "name": "Fars-Jahrom", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [53.5605556, 28.5] }}
+,
+{"type": "Feature", "properties": {"uuid": "3cb7a262-4c09-4715-bb3c-dbe13a2c5761", "countryname": "China", "name": "Hong Kong", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [114.171, 22.2771] }}
+,
+{"type": "Feature", "properties": {"uuid": "6db37ead-32d3-4c25-b036-55c9405b340d", "countryname": "Myanmar", "name": "Maungdaw Township", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [92.3666667, 20.8166667] }}
+,
+{"type": "Feature", "properties": {"uuid": "f13e1a92-e1cb-411c-8f7b-86d98a0b7305", "countryname": "Papua New Guinea", "name": "East Awin", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [142.0, -7.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "ed6a69d6-6b1c-49f1-ab83-4f9194c832dc", "countryname": "Iran", "name": "Kerman", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [57.06702, 30.28027] }}
+,
+{"type": "Feature", "properties": {"uuid": "b8c82931-d03e-4b51-b8e1-73c76a517606", "countryname": "India", "name": "Delhi", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [77.132986, 28.38711] }}
+,
+{"type": "Feature", "properties": {"uuid": "34b64d06-0f10-4861-a077-c121fc904536", "countryname": "Sri Lanka", "name": "Colombo", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [79.9052, 6.9555] }}
+,
+{"type": "Feature", "properties": {"uuid": "146ea023-f23e-4250-ac40-1ca9faafda87", "countryname": "Iran", "name": "Ghom", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [50.8763889, 34.64] }}
+,
+{"type": "Feature", "properties": {"uuid": "b8287a15-3bb6-4218-868c-45712e670d8d", "countryname": "Indonesia", "name": "Mataram", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [116.6246, -8.345457] }}
+,
+{"type": "Feature", "properties": {"uuid": "baba41fb-f594-4fca-9ffc-402b65904f43", "countryname": "Nepal", "name": "Beldangi I", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [87.6998, 26.7173] }}
+,
+{"type": "Feature", "properties": {"uuid": "d240a3c2-fe3c-40f0-accc-7841d00c1e6f", "countryname": "Iran", "name": "Ghazvin", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [50.003811, 36.266819] }}
+,
+{"type": "Feature", "properties": {"uuid": "e7040680-4601-4f29-9ce4-281d8df73a05", "countryname": "Nepal", "name": "Beldangi II", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [87.688, 26.7172] }}
+,
+{"type": "Feature", "properties": {"uuid": "9e094c2e-28db-49f6-9daa-a7d14e75b095", "countryname": "Indonesia", "name": "Makassar", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [119.253482, -5.83718] }}
+,
+{"type": "Feature", "properties": {"uuid": "7a65996f-4f72-4e92-9c17-89d5ab09dabd", "countryname": "Malaysia", "name": "Kuala Lumpur", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [101.686849, 3.138722] }}
+,
+{"type": "Feature", "properties": {"uuid": "4abc93b2-6f71-4097-9d0e-c17269c5acf6", "countryname": "Myanmar", "name": "Mon State", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [97.3516558, 17.0626039] }}
+,
+{"type": "Feature", "properties": {"uuid": "42462c34-76e6-4e2e-bf92-8d30d67251a6", "countryname": "Nepal", "name": "Beldangi II ext", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [87.6845, 26.7201] }}
+,
+{"type": "Feature", "properties": {"uuid": "12b9c9e3-5739-4ce9-8368-332429c21a59", "countryname": "Nepal", "name": "Goldhap", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [88.0417, 26.6125] }}
+,
+{"type": "Feature", "properties": {"uuid": "1e77b778-8ee4-4262-a1a1-4a6c41850549", "countryname": "Nepal", "name": "Khudunabari", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [87.9667, 26.7125] }}
+,
+{"type": "Feature", "properties": {"uuid": "75e06d07-a3e8-4c8c-91b0-08aef8c8be10", "countryname": "Myanmar", "name": "Kayin State", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [97.9592863, 16.9459346] }}
+,
+{"type": "Feature", "properties": {"uuid": "622dfa50-6109-4592-96a3-82c6bec02ab9", "countryname": "Nepal", "name": "Sanishare", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [87.5583, 26.6542] }}
+,
+{"type": "Feature", "properties": {"uuid": "206e643b-6cb0-4523-87b6-4350512858e5", "countryname": "Iraq", "name": "Basirma", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [43.887464, 36.467129] }}
+,
+{"type": "Feature", "properties": {"uuid": "74c22900-86ed-44ba-81a6-e755823b9b22", "countryname": "Nepal", "name": "Timai", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [88.0792, 26.7458] }}
+,
+{"type": "Feature", "properties": {"uuid": "2cc6717b-656f-49fa-9b24-ee59e4593607", "countryname": "Nepal", "name": "Beldangi", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [87.0793, 26.7459] }}
+,
+{"type": "Feature", "properties": {"uuid": "fc3b0ecf-620e-4c32-a0c6-219481341580", "countryname": "Iran", "name": "Esfahan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [51.679192, 32.65139] }}
+,
+{"type": "Feature", "properties": {"uuid": "50bf666c-be4c-4e89-865b-3ebeb4a5a0b3", "countryname": "Myanmar", "name": "Buthidaung  Township", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [92.527451, 20.8700009] }}
+,
+{"type": "Feature", "properties": {"uuid": "c999a72c-4390-4f79-9495-5113f4e1cf5c", "countryname": "Bangladesh", "name": "Kutupalong", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [92.1167, 21.2167] }}
+,
+{"type": "Feature", "properties": {"uuid": "4c7c35c9-114e-47f6-a36d-2fbdef07484c", "countryname": "Myanmar", "name": "Tanintharyi Division", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [99.0128926, 12.4706876] }}
+,
+{"type": "Feature", "properties": {"uuid": "a551de11-421b-4d63-a9c9-64ef915ca733", "countryname": "Iran", "name": "Kerman-Bardsir", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [56.5722222, 29.9275] }}
+,
+{"type": "Feature", "properties": {"uuid": "53220947-8144-4c60-8e21-21d0a3b5ede8", "countryname": "Iran", "name": "Kerman-Rafsanjan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [55.9938889, 30.4066667] }}
+,
+{"type": "Feature", "properties": {"uuid": "b8caae81-7600-4958-b4be-74c0488b1275", "countryname": "Bangladesh", "name": "Nayapara", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [92.25, 20.9167] }}
+,
+{"type": "Feature", "properties": {"uuid": "9a35cc1b-b320-4e72-9df1-fffbe4d5cc5c", "countryname": "Bangladesh", "name": "Leda Site", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [92.2573, 21.112036] }}
+,
+{"type": "Feature", "properties": {"uuid": "e0a036a6-1218-41b8-8b10-b6c0db260193", "countryname": "Iran", "name": "Kordestan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [47.1362125, 35.9553579] }}
+,
+{"type": "Feature", "properties": {"uuid": "40a08f14-b69e-4348-b1bf-b7dde61e793b", "countryname": "Indonesia", "name": "Bali", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [115.112, -8.243426] }}
+,
+{"type": "Feature", "properties": {"uuid": "9a385f28-8ad5-4497-8c7d-5f61edab4f20", "countryname": "Indonesia", "name": "Belawan", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [98.41392, 3.47349] }}
+,
+{"type": "Feature", "properties": {"uuid": "21442191-8036-466f-ae43-8ef10d4cd504", "countryname": "Indonesia", "name": "Bogor", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [106.47348, -6.3521] }}
+,
+{"type": "Feature", "properties": {"uuid": "56f9c6ad-7e5a-4897-b87a-e3fbc6dac4a4", "countryname": "Iran", "name": "Hormozgan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [55.1375834, 27.138723] }}
+,
+{"type": "Feature", "properties": {"uuid": "f8e5230a-0520-4566-8e7a-6a4ec1a50302", "countryname": "Indonesia", "name": "Jakarta", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [106.504262, -6.124156] }}
+,
+{"type": "Feature", "properties": {"uuid": "2cd7aa81-22ce-47e8-b0c0-52539819ea22", "countryname": "Thailand", "name": "Ban Mai Nai Soi", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [97.8306, 19.3704] }}
+,
+{"type": "Feature", "properties": {"uuid": "037f127e-371f-4f34-9b05-5c7b23003153", "countryname": "Iran", "name": "Fars", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [53.24521, 29.61577] }}
+,
+{"type": "Feature", "properties": {"uuid": "ce779433-ca67-4383-b660-a9c1842bd35a", "countryname": "Iran", "name": "Kurdestan-Kamyaran", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [46.9355556, 34.7955556] }}
+,
+{"type": "Feature", "properties": {"uuid": "983dfc38-8a94-4e96-8549-cf2c365750ef", "countryname": "Thailand", "name": "Ban Mae Surin", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [97.8314, 19.0251] }}
+,
+{"type": "Feature", "properties": {"uuid": "3a12508e-10f4-4531-bad2-3dc78b8dfedf", "countryname": "Iran", "name": "West Azarbaijan", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [45.0, 37.271802] }}
+,
+{"type": "Feature", "properties": {"uuid": "b57dc320-e8d2-4a6e-bc47-6fc3b213a5e0", "countryname": "Iran", "name": "Kermanshah-Songhor", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [47.59116, 34.784809] }}
+,
+{"type": "Feature", "properties": {"uuid": "e07a12ab-f4ec-46c8-9f62-a02b6c582031", "countryname": "Thailand", "name": "Mae La Oon", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [97.779581, 17.775998] }}
+,
+{"type": "Feature", "properties": {"uuid": "d7ba8d13-4706-4459-a4a5-eee8ddb8d32a", "countryname": "Thailand", "name": "Mae Ra Ma Luang", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [97.8333, 17.8167] }}
+,
+{"type": "Feature", "properties": {"uuid": "8e618369-99bb-4ed0-9eb6-550896aeb49f", "countryname": "Iran", "name": "Markazi-Saveh", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [49.8547266, 34.612305] }}
+,
+{"type": "Feature", "properties": {"uuid": "a77a8917-cf84-4a69-ba35-8d30bdfcd2cf", "countryname": "Iran", "name": "Golestan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [55.1375834, 37.2898123] }}
+,
+{"type": "Feature", "properties": {"uuid": "4f381d56-79c4-4283-bd76-9530eca8a7c5", "countryname": "Thailand", "name": "Bangkok", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [100.283444, 13.432431] }}
+,
+{"type": "Feature", "properties": {"uuid": "6822ba34-a10e-45c6-af4e-18a8a6ad44e7", "countryname": "Iran", "name": "Markazi", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [50.0005, 34.6352] }}
+,
+{"type": "Feature", "properties": {"uuid": "694c37db-b3aa-43eb-aced-536b0dbf8f39", "countryname": "Iran", "name": "Qazvin", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [50.003811, 36.266819] }}
+,
+{"type": "Feature", "properties": {"uuid": "0faa8d62-d21b-4645-8735-4fbefbfeb7eb", "countryname": "Thailand", "name": "Mae La", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [98.3744, 17.1297] }}
+,
+{"type": "Feature", "properties": {"uuid": "2deb4b0e-2dcd-4998-a09f-a08b59f978fe", "countryname": "Iran", "name": "Tehran", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [51.42444, 35.67194] }}
+,
+{"type": "Feature", "properties": {"uuid": "c62fd3e2-55b9-4647-a72c-7ae03736c404", "countryname": "Thailand", "name": "Nu Poh", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [98.6767, 15.8514] }}
+,
+{"type": "Feature", "properties": {"uuid": "3540523e-af89-4dcc-86f6-2adb744020e0", "countryname": "Iran", "name": "Kermanshah", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [47.32635, 34.182937] }}
+,
+{"type": "Feature", "properties": {"uuid": "25ec8545-1e5c-440c-aac0-f8b831aefac5", "countryname": "Thailand", "name": "Umpiem Mai", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [99.0164, 16.3981] }}
+,
+{"type": "Feature", "properties": {"uuid": "35e71d16-cc4f-4b0f-9cb5-a34aa3953638", "countryname": "Iran", "name": "Kurdestan", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [47.81036, 35.571929] }}
+,
+{"type": "Feature", "properties": {"uuid": "e317bdcd-7bb7-4b1b-b381-4145bf849af1", "countryname": "Thailand", "name": "Tham Hin", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [99.2676, 13.6984] }}
+,
+{"type": "Feature", "properties": {"uuid": "2c4da95b-d902-4573-91f4-5b204804bff8", "countryname": "Iran", "name": "Mashad", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [62.58333, 26.81667] }}
+,
+{"type": "Feature", "properties": {"uuid": "90049b2e-1df6-4672-8e02-9d254861be98", "countryname": "Iran", "name": "Ahwaz", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [48.68438, 31.31671] }}
+,
+{"type": "Feature", "properties": {"uuid": "f0fbe536-f7c6-46a6-b47b-951ac60c34e6", "countryname": "Thailand", "name": "Ban Don Yang", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [98.2997, 15.2631] }}
+,
+{"type": "Feature", "properties": {"uuid": "97cf98bf-c562-46a0-adc8-9dcb4ab196a1", "countryname": "Iran", "name": "Bushehr", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [50.833092, 28.922041] }}
+,
+{"type": "Feature", "properties": {"uuid": "9e1c8c61-09c9-4d9c-9739-6bb20841a759", "countryname": "Iran", "name": "All urban areas", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [54.494, 31.939] }}
+,
+{"type": "Feature", "properties": {"uuid": "ed610dae-a175-442d-b5b9-ed5717bed66f", "countryname": "Iran", "name": "Khuzestan", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [49.22872, 31.26965] }}
+,
+{"type": "Feature", "properties": {"uuid": "45dc33a7-082e-495b-a091-8ff63d440cd3", "countryname": "Iran", "name": "Lorestan", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [48.235575, 33.355462] }}
+,
+{"type": "Feature", "properties": {"uuid": "117018e6-4ee0-4eff-ab27-2e2bad6ecc03", "countryname": "Iran", "name": "Semnan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [53.394, 35.574] }}
+,
+{"type": "Feature", "properties": {"uuid": "82b087f4-043c-49e9-9d63-050f0ddedb27", "countryname": "Iran", "name": "Kermanshah-Kangavar", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [47.955711, 34.502892] }}
+,
+{"type": "Feature", "properties": {"uuid": "5dc786d2-5602-4a78-8b7d-3fef395b7cf4", "countryname": "Iraq", "name": "Akra", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [43.87958, 36.73543] }}
+,
+{"type": "Feature", "properties": {"uuid": "350c615b-fd03-4485-8be2-54768b44ac1e", "countryname": "Iran", "name": "Khorasan Razavi-Torbat e jam", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [60.6225, 35.24388889] }}
+,
+{"type": "Feature", "properties": {"uuid": "1e35478f-b85d-4953-9035-23012a40ef52", "countryname": "Iran", "name": "Khuzestan-Andimeshk", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [48.34837, 32.458359] }}
+,
+{"type": "Feature", "properties": {"uuid": "a493843d-b5cf-40ae-bbaf-ad9f1209a0e3", "countryname": "Iran", "name": "Khuzestan-Shushtar", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [48.8566667, 32.0455556] }}
+,
+{"type": "Feature", "properties": {"uuid": "4fe63bc6-ac99-46fe-a4a0-cf7894c8cdc2", "countryname": "Iran", "name": "Lorestan-Azna", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [48.3988186, 33.5818394] }}
+,
+{"type": "Feature", "properties": {"uuid": "adf361b4-9067-4985-a121-c93022ae1698", "countryname": "Iran", "name": "Mazandaran", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [52.5318604, 36.2262393] }}
+,
+{"type": "Feature", "properties": {"uuid": "2049373d-c8ad-4b6a-a71d-9a19694da27a", "countryname": "Iran", "name": "Semnan-Semnan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [53.396049, 35.572269] }}
+,
+{"type": "Feature", "properties": {"uuid": "30612389-1a87-4646-b0d3-2376aae6a2e3", "countryname": "Iran", "name": "South Khorasan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [59.1041758, 32.5175649] }}
+,
+{"type": "Feature", "properties": {"uuid": "8865b050-6400-44f4-95d7-b8511e710c9a", "countryname": "Iran", "name": "West Azarbayjan-Orumieh", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [45.0725, 37.5552778] }}
+,
+{"type": "Feature", "properties": {"uuid": "c51b3ef6-b155-4e5e-a1ea-f810b367c112", "countryname": "Iran", "name": "West Azarbayjan-Piranshahr", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [45.1445695, 36.6950261] }}
+,
+{"type": "Feature", "properties": {"uuid": "a1c3a3a5-99df-4566-bfa2-01a1da1578cf", "countryname": "Iran", "name": "West Azarbayjan-Sardasht", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [45.4788889, 36.1552778] }}
+,
+{"type": "Feature", "properties": {"uuid": "82b900d1-504a-4eba-a231-0abd32721348", "countryname": "Iran", "name": "Yazd", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [54.36068, 31.89661] }}
+,
+{"type": "Feature", "properties": {"uuid": "c71891d7-cc39-41a8-8eb0-3072be13d9f3", "countryname": "Iran", "name": "Zahedan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [60.8627778, 29.4963889] }}
+,
+{"type": "Feature", "properties": {"uuid": "d2c878f3-e0b3-479a-8246-aa925d74e380", "countryname": "Iran", "name": "Zanjan-Sultanieh", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [48.485111, 36.67094] }}
+,
+{"type": "Feature", "properties": {"uuid": "e3dde237-7263-40d3-a1ee-cbffd11879e6", "countryname": "Iran", "name": "Urban", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [54.494, 31.939] }}
+,
+{"type": "Feature", "properties": {"uuid": "33f18fa4-b46a-4b91-acef-f34e79867b0f", "countryname": "Pakistan", "name": "Azakhel 1", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.87929, 34.01016] }}
+,
+{"type": "Feature", "properties": {"uuid": "a22e9435-0580-4b72-88d6-5574357fb6a4", "countryname": "Pakistan", "name": "Balochistan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [65.5448, 28.292664] }}
+,
+{"type": "Feature", "properties": {"uuid": "ea0595cb-af8a-420d-a40c-12070078901b", "countryname": "Pakistan", "name": "Badaber", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.552611, 33.920389] }}
+,
+{"type": "Feature", "properties": {"uuid": "485710fe-3487-455b-8ab2-227933a9fc56", "countryname": "Pakistan", "name": "Baraki 1", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.460833, 34.221944] }}
+,
+{"type": "Feature", "properties": {"uuid": "a6dc9bfc-aa52-43c3-9434-e9d212c0ed36", "countryname": "Pakistan", "name": "Khyber Pakhtunkhwa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.195201, 34.57943] }}
+,
+{"type": "Feature", "properties": {"uuid": "036b19b1-b4ab-4534-89aa-239b26c95732", "countryname": "Pakistan", "name": "Punjab", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.423498, 31.101346] }}
+,
+{"type": "Feature", "properties": {"uuid": "d6f1fcec-81c7-4efc-99db-b14a7ff94465", "countryname": "Pakistan", "name": "Khyberpaktunkwa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "c5bc6895-2982-4efc-b2b7-cefcfb6fca0c", "countryname": "Pakistan", "name": "Adezai", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.59419, 34.16163] }}
+,
+{"type": "Feature", "properties": {"uuid": "de689eec-0639-4c42-8935-7fd8500f3ece", "countryname": "Pakistan", "name": "Akora 1", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.09185, 33.98461] }}
+,
+{"type": "Feature", "properties": {"uuid": "3c37a56c-40b1-4658-b23d-40d37f29a324", "countryname": "Pakistan", "name": "Akora 2", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.10463, 33.98535] }}
+,
+{"type": "Feature", "properties": {"uuid": "5031e65b-4070-4745-90fb-8316db0b0e6a", "countryname": "Pakistan", "name": "Akora 3", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.09975, 33.97457] }}
+,
+{"type": "Feature", "properties": {"uuid": "ef38cc48-5174-47a4-8401-e9d3984ad9cc", "countryname": "Pakistan", "name": "Azakhel 2", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.8563, 34.00925] }}
+,
+{"type": "Feature", "properties": {"uuid": "06c564b2-4cd4-49cb-a519-48f5b2652051", "countryname": "Pakistan", "name": "Bachicha", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.21117, 34.22952] }}
+,
+{"type": "Feature", "properties": {"uuid": "96b94afd-e06c-4164-ac36-a001abe57b7b", "countryname": "Pakistan", "name": "Baraki 2", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.39979, 34.1265] }}
+,
+{"type": "Feature", "properties": {"uuid": "f9cadbbb-7c83-4607-865f-d9ebc20b0f34", "countryname": "Pakistan", "name": "Basomera Camp", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.85746, 34.02224] }}
+,
+{"type": "Feature", "properties": {"uuid": "5ccb6172-c66a-47e5-ab5b-b629124f4e38", "countryname": "Pakistan", "name": "Birari", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [73.19057, 34.33886] }}
+,
+{"type": "Feature", "properties": {"uuid": "292cc39d-8c29-42cd-ab28-449c55cd4dd8", "countryname": "Pakistan", "name": "Chaghai", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [64.706734, 29.29767] }}
+,
+{"type": "Feature", "properties": {"uuid": "b8ae4cac-340d-4a82-a7e4-73574c44707d", "countryname": "Pakistan", "name": "Chakdara", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.0333333, 34.65] }}
+,
+{"type": "Feature", "properties": {"uuid": "cd967bab-9513-4a45-9a88-774d326dc9cc", "countryname": "Pakistan", "name": "Dallan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [70.647647, 33.358555] }}
+,
+{"type": "Feature", "properties": {"uuid": "3f2d6c58-d4c5-4ac6-8f12-84aa840e31bf", "countryname": "Pakistan", "name": "Denda Camp", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.87278, 34.00515] }}
+,
+{"type": "Feature", "properties": {"uuid": "fc6d0959-5800-4f46-a430-9475e629fbb8", "countryname": "Pakistan", "name": "Doaba", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [70.7363889, 33.423111] }}
+,
+{"type": "Feature", "properties": {"uuid": "a599dfc9-eb7e-4e20-a6b4-71f593427872", "countryname": "Pakistan", "name": "Gambilla", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.021, 32.636] }}
+,
+{"type": "Feature", "properties": {"uuid": "991c39ea-444b-4725-bf5b-40fa1aa3f7de", "countryname": "Pakistan", "name": "Gamkol 1", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.44997, 33.61367] }}
+,
+{"type": "Feature", "properties": {"uuid": "6097245b-3f69-45b1-a914-67b21dbcacb5", "countryname": "Pakistan", "name": "Gamkol 2", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.45827, 33.61456] }}
+,
+{"type": "Feature", "properties": {"uuid": "38dee889-82a1-4b3a-ba25-bed7ae9a09ec", "countryname": "Pakistan", "name": "Gandaf", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.6833333, 34.1166667] }}
+,
+{"type": "Feature", "properties": {"uuid": "95955199-26e6-45b3-946a-f1c0867d6756", "countryname": "Pakistan", "name": "Ghulam Banda", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.53008, 33.53449] }}
+,
+{"type": "Feature", "properties": {"uuid": "cdf0dca1-ff9f-4f25-9d1b-878822e53b0a", "countryname": "Pakistan", "name": "Ichrian", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [73.22458, 34.4933] }}
+,
+{"type": "Feature", "properties": {"uuid": "fae9962a-fdb8-4981-9504-d3955753f093", "countryname": "Pakistan", "name": "Jalala", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "8eaf9d02-a64f-4d74-b701-34df3192a834", "countryname": "Pakistan", "name": "Kababian", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.52929, 34.01959] }}
+,
+{"type": "Feature", "properties": {"uuid": "d4514410-91b8-4525-9900-239cbe2ba3d2", "countryname": "Pakistan", "name": "Kagan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [73.5255463, 34.7778548] }}
+,
+{"type": "Feature", "properties": {"uuid": "e7e2f59c-79b4-4c71-8b3c-232ceed41c51", "countryname": "Pakistan", "name": "Kalkatak", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "8574eaf7-f798-4942-a66d-f198996e3409", "countryname": "Pakistan", "name": "Katakarna", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "a20e412c-f4ab-4af9-86cb-190e3e8ae14c", "countryname": "Pakistan", "name": "Khairabad", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.2156517, 33.9016326] }}
+,
+{"type": "Feature", "properties": {"uuid": "db749d8d-ca26-4eee-86e9-3120b76116c3", "countryname": "Pakistan", "name": "Khaki", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [73.1305349, 34.4077983] }}
+,
+{"type": "Feature", "properties": {"uuid": "73cf6f8e-a32e-4302-81ce-9f4a79b92ea1", "countryname": "Pakistan", "name": "Khazana", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.7844893, 34.7935096] }}
+,
+{"type": "Feature", "properties": {"uuid": "4857654a-ce49-4d9c-a84c-c1c1666aba16", "countryname": "Pakistan", "name": "Khurasan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.554131, 34.080681] }}
+,
+{"type": "Feature", "properties": {"uuid": "b8dc5572-95ca-4118-bd6b-b5a2fad0fab2", "countryname": "Pakistan", "name": "Koga", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [72.508933, 34.374767] }}
+,
+{"type": "Feature", "properties": {"uuid": "4bb7a0b2-8ab8-4feb-b937-b54edace5d61", "countryname": "Pakistan", "name": "Matani", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.55907, 33.80685] }}
+,
+{"type": "Feature", "properties": {"uuid": "212fde82-2d52-49f1-a9ff-0b8e5b7ee7f9", "countryname": "Pakistan", "name": "Mera Kachori", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.700278, 34.042222] }}
+,
+{"type": "Feature", "properties": {"uuid": "25d40056-6e26-45ad-b551-c41c0c0e6392", "countryname": "Pakistan", "name": "Munda Pul", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.57495, 34.31794] }}
+,
+{"type": "Feature", "properties": {"uuid": "ab75a8cf-dc1c-4ac2-9e4e-85ca83258cbf", "countryname": "Pakistan", "name": "Naguman", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.6087427, 34.1242217] }}
+,
+{"type": "Feature", "properties": {"uuid": "0a82d0dc-08e9-4a56-a500-a1f6c1f8d5b0", "countryname": "Pakistan", "name": "Oblan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.41121, 33.60841] }}
+,
+{"type": "Feature", "properties": {"uuid": "d37708e3-2cd5-49c9-8c69-0f7028936025", "countryname": "Pakistan", "name": "Padana Camp", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "12d4c0d5-510e-4a11-84b4-88a710d955fe", "countryname": "Pakistan", "name": "Panian Camp 1", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "ac5c2aec-b92e-4785-9da4-8619cd2dedb3", "countryname": "Pakistan", "name": "Panian Camp 2", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "5b1aab5e-4adf-4de4-901e-d16a67d103a3", "countryname": "Pakistan", "name": "Panian Camp 3", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "79eabb89-8020-419b-8b58-4a26db4a941c", "countryname": "Pakistan", "name": "Pusha Pul", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [70.928839, 32.108019] }}
+,
+{"type": "Feature", "properties": {"uuid": "29ca87d7-d40e-4fd4-87c0-365703d65d79", "countryname": "Pakistan", "name": "Temar", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "287862c8-7393-4bce-ab69-8751cb35a100", "countryname": "Pakistan", "name": "Thal", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [70.54496, 33.370041] }}
+,
+{"type": "Feature", "properties": {"uuid": "2ff3cef4-0180-4edd-9180-55fcfa477ed4", "countryname": "Pakistan", "name": "Toor", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [73.5895935, 32.8486699] }}
+,
+{"type": "Feature", "properties": {"uuid": "cb3bfb5a-d09f-416a-80f5-e233439f7131", "countryname": "Pakistan", "name": "Turkaman", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.727971, 34.014436] }}
+,
+{"type": "Feature", "properties": {"uuid": "9d63f5da-1704-4f40-96e4-7f4dd6b63801", "countryname": "Pakistan", "name": "Utmanzai", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.7681792, 34.1977804] }}
+,
+{"type": "Feature", "properties": {"uuid": "49dcb416-ad08-4bfa-93ee-bff53f2ae04a", "countryname": "Pakistan", "name": "Zangal Patai", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.9667, 34.4833] }}
+,
+{"type": "Feature", "properties": {"uuid": "f219b45b-a130-4f71-b328-1f48c8cb7d14", "countryname": "Iraq", "name": "Arbat", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [45.593164, 35.432204] }}
+,
+{"type": "Feature", "properties": {"uuid": "ae39b390-0b1a-4093-8378-bcd33b65059d", "countryname": "Pakistan", "name": "Zindai", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.5929802, 33.9127723] }}
+,
+{"type": "Feature", "properties": {"uuid": "8e3e2c21-f63f-4e8b-953d-da3a8fba59b6", "countryname": "Pakistan", "name": "Kot Chandana", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.503399, 32.9441322] }}
+,
+{"type": "Feature", "properties": {"uuid": "3c61b777-67a9-4f68-910a-7508b950eb32", "countryname": "Pakistan", "name": "Ghazgi Minara", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [68.6, 30.3667] }}
+,
+{"type": "Feature", "properties": {"uuid": "93a7a5bc-7123-4c80-afb4-d510bf2be712", "countryname": "Pakistan", "name": "Katwai", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [70.2380556, 33.4786111] }}
+,
+{"type": "Feature", "properties": {"uuid": "29a1c5e1-1e50-4dd0-a76a-5bbf804ef32b", "countryname": "Pakistan", "name": "Lejjay Karez", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [64.930568, 29.487442] }}
+,
+{"type": "Feature", "properties": {"uuid": "f4e80499-15df-4661-9a31-8c1602c97013", "countryname": "Pakistan", "name": "Malgagai", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [68.221844, 30.656888] }}
+,
+{"type": "Feature", "properties": {"uuid": "d7369128-39d2-4b5d-8ac7-5f0bf347b4cb", "countryname": "Pakistan", "name": "Muhammad Khail", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [66.576547, 30.040676] }}
+,
+{"type": "Feature", "properties": {"uuid": "0e413728-1351-4646-9a65-33610b590c3d", "countryname": "Pakistan", "name": "Posti", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [64.875884, 29.27212] }}
+,
+{"type": "Feature", "properties": {"uuid": "34f47ff5-ef24-411c-8c61-ff8d9b6c4339", "countryname": "Pakistan", "name": "Saranan", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [66.5833, 30.6167] }}
+,
+{"type": "Feature", "properties": {"uuid": "2f6506d7-cb15-42f0-b1b8-4bcf4acfb9ec", "countryname": "Pakistan", "name": "Surkhab", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [66.9833, 30.5833] }}
+,
+{"type": "Feature", "properties": {"uuid": "a30cbc04-a55a-47ca-b9c6-af08a61ac741", "countryname": "Pakistan", "name": "Zar Karez", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [68.444272, 30.445921] }}
+,
+{"type": "Feature", "properties": {"uuid": "4e841c3e-15df-4289-98ec-be55905eea8a", "countryname": "Pakistan", "name": "Kata Karayn", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [0.0, 0.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "817334f9-e02e-4097-9206-7993e5778959", "countryname": "Pakistan", "name": "Islamabad", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [73.066, 33.721] }}
+,
+{"type": "Feature", "properties": {"uuid": "d24005c7-8882-4113-bc93-4c5f8b3cf0d7", "countryname": "Pakistan", "name": "Karachi", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [67.007, 24.852] }}
+,
+{"type": "Feature", "properties": {"uuid": "7b11f210-8530-4ad4-a0df-487fd66f77d4", "countryname": "Pakistan", "name": "Peshawar", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [71.544, 34.005] }}
+,
+{"type": "Feature", "properties": {"uuid": "b4e02ba1-a73c-44d5-a423-0fba35ffcbf6", "countryname": "Pakistan", "name": "Quetta", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [67.017, 30.21] }}
+,
+{"type": "Feature", "properties": {"uuid": "2e8578b0-d5e8-4294-b67d-021abb273701", "countryname": "Armenia", "name": "Yerevan", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [44.535, 40.206] }}
+,
+{"type": "Feature", "properties": {"uuid": "35103068-5152-4669-8365-10bc1d65ba5a", "countryname": "Lebanon", "name": "South Lebanon", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [35.4875, 33.3639] }}
+,
+{"type": "Feature", "properties": {"uuid": "3f2dc8df-808d-4173-a431-4ea6dc0ab5bf", "countryname": "Bosnia", "name": "Brcko", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [18.483, 44.5222] }}
+,
+{"type": "Feature", "properties": {"uuid": "a3586d97-b549-48e6-a005-69d50d2e9d8a", "countryname": "Bosnia", "name": "Salakovac", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [17.5127, 43.2637] }}
+,
+{"type": "Feature", "properties": {"uuid": "1bc76287-51eb-4de6-8087-b0ca43c8ab44", "countryname": "Croatia", "name": "Kutina", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [16.744, 45.484] }}
+,
+{"type": "Feature", "properties": {"uuid": "236dc17f-18ed-442a-9d1d-1351940644d6", "countryname": "Montenegro", "name": "Danilovgrad", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [19.102, 42.557] }}
+,
+{"type": "Feature", "properties": {"uuid": "d3184dac-e475-4ecf-8010-311611c0a898", "countryname": "Iraq", "name": "Domiz", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [42.884444, 36.780589] }}
+,
+{"type": "Feature", "properties": {"uuid": "f562ee07-07c7-4036-86dd-c96f7f77ddf0", "countryname": "Montenegro", "name": "Podgorica", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [19.16713, 42.263327] }}
+,
+{"type": "Feature", "properties": {"uuid": "8035229c-419b-4f44-9fb1-df5219957210", "countryname": "Macedonia", "name": "Berovo", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [22.81667, 41.65] }}
+,
+{"type": "Feature", "properties": {"uuid": "315cb3df-5f4c-4444-8a0a-f3e11a181104", "countryname": "Macedonia", "name": "Gevgelija", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [22.4, 41.2] }}
+,
+{"type": "Feature", "properties": {"uuid": "fa0b0973-84f3-4dfc-b578-3e95b36a62cb", "countryname": "Lebanon", "name": "Bekaa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [36.0, 33.833389] }}
+,
+{"type": "Feature", "properties": {"uuid": "42ae8f56-9734-4b06-aff1-830fdf47c300", "countryname": "Macedonia", "name": "Gostivar", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [20.543, 41.475] }}
+,
+{"type": "Feature", "properties": {"uuid": "e33d4c2d-7dd3-4020-a93f-ce0a0dfff1fe", "countryname": "Macedonia", "name": "Kavadarci", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [21.95, 41.38333] }}
+,
+{"type": "Feature", "properties": {"uuid": "521d5f23-4814-4c45-ac7b-cda78a839ba3", "countryname": "Macedonia", "name": "Kicevo", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [20.95, 41.51667] }}
+,
+{"type": "Feature", "properties": {"uuid": "d9d5c394-48c0-4973-8a36-0be677f1352e", "countryname": "Macedonia", "name": "Krusevo", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.1456, 41.228] }}
+,
+{"type": "Feature", "properties": {"uuid": "02820301-e079-4e39-953c-ef1f1959c167", "countryname": "Macedonia", "name": "Kumanovo", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [21.71, 42.135] }}
+,
+{"type": "Feature", "properties": {"uuid": "91163fab-6d65-46c6-a697-405eb16e2ff1", "countryname": "Macedonia", "name": "Ohrid", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [20.85, 41.06667] }}
+,
+{"type": "Feature", "properties": {"uuid": "b7f31f4e-6403-49a7-9884-f63545e959d0", "countryname": "Macedonia", "name": "Prilep", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [21.63333, 41.38333] }}
+,
+{"type": "Feature", "properties": {"uuid": "14e2764c-61f6-4b57-bc8e-bfd241c6b5c3", "countryname": "Macedonia", "name": "Skopje", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [21.26, 42.0] }}
+,
+{"type": "Feature", "properties": {"uuid": "67854cbc-1fe4-4c12-a7ff-408e3c572c09", "countryname": "Macedonia", "name": "Strumica", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [22.66667, 41.41667] }}
+,
+{"type": "Feature", "properties": {"uuid": "bd42b39c-55a5-4bfe-bd50-036786bad90f", "countryname": "Congo (DR)", "name": "CS AIDES", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.25123, 1.431989] }}
+,
+{"type": "Feature", "properties": {"uuid": "91b8db1f-313c-4a9a-bf79-e11f5d0fa7b7", "countryname": "Macedonia", "name": "Sveti Nikole", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [21.5634, 41.5154] }}
+,
+{"type": "Feature", "properties": {"uuid": "55a3c43d-ab83-4c86-83c9-d2e722a61119", "countryname": "Macedonia", "name": "Tetovo", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [20.972, 42.01] }}
+,
+{"type": "Feature", "properties": {"uuid": "558c5075-47b2-441b-902b-6365ddb6cc5b", "countryname": "Macedonia", "name": "Valandovo", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [22.5, 41.34306] }}
+,
+{"type": "Feature", "properties": {"uuid": "a859fe74-4bcc-4e30-bcb7-4fd9fc657c56", "countryname": "Macedonia", "name": "Veles", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [21.77556, 41.71556] }}
+,
+{"type": "Feature", "properties": {"uuid": "471d75c1-466f-4225-b0ae-ab29e6c805e7", "countryname": "Egypt", "name": "Alexandria", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [30.063948, 31.12486] }}
+,
+{"type": "Feature", "properties": {"uuid": "a4320fc6-6c6e-453b-98a6-d97bd62733c6", "countryname": "Congo", "name": "PS Loumbe", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "9e6aa313-188f-459d-a0b6-d2c35133a06d", "countryname": "Egypt", "name": "Cairo", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [31.251, 30.078] }}
+,
+{"type": "Feature", "properties": {"uuid": "50e87354-548f-4fbc-b46e-b6d0ff4c9e41", "countryname": "Jordan", "name": "Amman", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [35.932, 31.949] }}
+,
+{"type": "Feature", "properties": {"uuid": "4689250b-2388-4eb4-9475-922a806fcbd1", "countryname": "Algeria", "name": "Tindouf", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-7.897, 27.543] }}
+,
+{"type": "Feature", "properties": {"uuid": "15d328be-ba72-42dc-9bd4-fa6ea370e8e2", "countryname": "Jordan", "name": "Azraq", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [36.82, 31.83] }}
+,
+{"type": "Feature", "properties": {"uuid": "d1095bc5-d83a-40c1-a361-e48d96459018", "countryname": "Lebanon", "name": "Beirut", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [35.5, 33.8833] }}
+,
+{"type": "Feature", "properties": {"uuid": "ecca6428-4450-42bf-ad81-639062c3d67d", "countryname": "Lebanon", "name": "North Lebanon", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [36.0111, 34.2511] }}
+,
+{"type": "Feature", "properties": {"uuid": "f34b205c-9f61-4310-8e30-99fcefdf370e", "countryname": "Syria", "name": "Al Hol", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [41.15, 36.3833] }}
+,
+{"type": "Feature", "properties": {"uuid": "9b8ec972-ef04-465a-93ca-d25a241dc705", "countryname": "Syria", "name": "Al Tanf", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [38.66302, 33.48959] }}
+,
+{"type": "Feature", "properties": {"uuid": "8056f51c-1af5-4187-8956-1fe5198dfc3f", "countryname": "Syria", "name": "Damascus", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [36.294, 33.519] }}
+,
+{"type": "Feature", "properties": {"uuid": "9cc39408-a775-4c13-a983-07a45d4cdee4", "countryname": "Yemen", "name": "Aden", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [45.034, 12.807] }}
+,
+{"type": "Feature", "properties": {"uuid": "9b879dc6-8561-463f-94f8-9921e11d8139", "countryname": "Yemen", "name": "Al-Baida", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [48.784, 14.25] }}
+,
+{"type": "Feature", "properties": {"uuid": "59a6e95b-2f0b-4816-9d18-a68d8a9ae35a", "countryname": "Yemen", "name": "Dhamar", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [44.392, 14.55] }}
+,
+{"type": "Feature", "properties": {"uuid": "f7304146-5ef6-4c56-8aff-7daf0fbde0b3", "countryname": "Yemen", "name": "Hodeidah", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [42.945, 14.795] }}
+,
+{"type": "Feature", "properties": {"uuid": "5745f6f5-db1e-41ce-8d11-1d24e764172a", "countryname": "Congo (DR)", "name": "CS Bulindi", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.131795, -1.200822] }}
+,
+{"type": "Feature", "properties": {"uuid": "5f8154e3-5684-4eed-804d-64cd1b2eef0b", "countryname": "Yemen", "name": "Mahra", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [51.24833, 15.78861] }}
+,
+{"type": "Feature", "properties": {"uuid": "bd27a6c6-47e9-4999-af97-b5854db044db", "countryname": "Yemen", "name": "Mukalla", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [49.127, 14.544] }}
+,
+{"type": "Feature", "properties": {"uuid": "329fc9df-4c93-44d6-98fd-376437686a59", "countryname": "Yemen", "name": "Rida'a", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [44.83658, 14.41225] }}
+,
+{"type": "Feature", "properties": {"uuid": "5096548e-fc02-4dbd-9d97-2898e5f8aaea", "countryname": "Yemen", "name": "Sada'a", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [44.983, 13.567] }}
+,
+{"type": "Feature", "properties": {"uuid": "919bd9ae-0b53-4974-b0aa-7b9feb994e9e", "countryname": "Yemen", "name": "Shabwa", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [47.01667, 15.36667] }}
+,
+{"type": "Feature", "properties": {"uuid": "c9aa19c9-eb2b-4320-8cef-3817594e42f8", "countryname": "Yemen", "name": "Taiz", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [44.015, 13.575] }}
+,
+{"type": "Feature", "properties": {"uuid": "bc55d835-06ba-48b4-a3eb-573fa547f3a4", "countryname": "Congo (DR)", "name": "CS Kibarizo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.25123, 1.431989] }}
+,
+{"type": "Feature", "properties": {"uuid": "7c38101b-fc08-4c3c-aa3d-a6b9c97d7ece", "countryname": "Congo", "name": "PS Monokoboli", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "7f851b0e-d7fb-496b-bc86-a8c1a9d61a67", "countryname": "Yemen", "name": "Basateen", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [45.039268, 12.77244] }}
+,
+{"type": "Feature", "properties": {"uuid": "40c0b4a0-2f8a-4c76-84f5-372fc19b7504", "countryname": "Mauritania", "name": "M'berra", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [-5.746883, 15.684958] }}
+,
+{"type": "Feature", "properties": {"uuid": "8fd87e13-6550-414f-9263-968796b7d815", "countryname": "Yemen", "name": "Kharaz", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [44.082, 12.768] }}
+,
+{"type": "Feature", "properties": {"uuid": "4965fe2a-4a6d-4e14-9e18-84829a1815d5", "countryname": "Yemen", "name": "Sanaa", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [44.205, 15.358] }}
+,
+{"type": "Feature", "properties": {"uuid": "c92b12b4-b336-4d66-ab4b-2debf3d88bef", "countryname": "Yemen", "name": "Ahwar", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [46.423934, 13.50586] }}
+,
+{"type": "Feature", "properties": {"uuid": "8db0ec46-07d3-4385-92ff-2eeaebe5f982", "countryname": "Yemen", "name": "Mayfaa", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [47.295074, 14.185716] }}
+,
+{"type": "Feature", "properties": {"uuid": "a37c600f-4cf8-44d8-8617-107bbe37ff18", "countryname": "Congo (DR)", "name": "CS Kivuye", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.25123, 1.431989] }}
+,
+{"type": "Feature", "properties": {"uuid": "4a4448d1-1efb-4b1a-bc87-ededf6820d19", "countryname": "Yemen", "name": "Bab el-Mandeb", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [43.372191, 13.142035] }}
+,
+{"type": "Feature", "properties": {"uuid": "a4dc3a9d-751c-4c38-890d-2f3e8025e269", "countryname": "Mauritania", "name": "Nouakchott", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [-15.584231, 18.5262] }}
+,
+{"type": "Feature", "properties": {"uuid": "487c5769-bc80-4f25-a51e-ce3d2da17ba1", "countryname": "Congo (DR)", "name": "CS Kalembe", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.25123, 1.431989] }}
+,
+{"type": "Feature", "properties": {"uuid": "5ed8277e-7ad5-48b8-8896-bac333437235", "countryname": "Congo (DR)", "name": "CSR St Benoit", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.25123, 1.431989] }}
+,
+{"type": "Feature", "properties": {"uuid": "52bb07d1-c8e3-4fcf-9992-5d6ef536e1f4", "countryname": "Congo (DR)", "name": "CS Mbiti", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [28.813333, -1.398889] }}
+,
+{"type": "Feature", "properties": {"uuid": "4aec3395-bca3-4823-9020-93213c702dc9", "countryname": "Congo (DR)", "name": "Mugunga III", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.102519, 1.373747] }}
+,
+{"type": "Feature", "properties": {"uuid": "7ba22e8c-7e37-4950-9706-5d0b00ed62fb", "countryname": "Congo (DR)", "name": "CS Bwalanda", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.118064, 0.98335] }}
+,
+{"type": "Feature", "properties": {"uuid": "e8ef2714-fd7d-4217-aabe-17590117107e", "countryname": "Congo (DR)", "name": "CS Kitsule", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [28.5498, 1.244942] }}
+,
+{"type": "Feature", "properties": {"uuid": "87fa1b96-5d8b-4717-b2b2-cf965fa51f13", "countryname": "Congo (DR)", "name": "CS Lohashi", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [28.813333, -1.398889] }}
+,
+{"type": "Feature", "properties": {"uuid": "a7154b66-cc32-40b1-9822-62f7e329b390", "countryname": "Congo (DR)", "name": "CS Masisi", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [28.813333, -1.398889] }}
+,
+{"type": "Feature", "properties": {"uuid": "a89447e4-d683-43be-b747-c6e150031fda", "countryname": "Congo (DR)", "name": "CS Buabo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [28.813333, -1.398889] }}
+,
+{"type": "Feature", "properties": {"uuid": "b41823b6-4852-489b-b1c8-79dd12eea29d", "countryname": "Congo", "name": "PS 15 Avril", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "55ddf5f9-0b87-487d-a489-a343e8d6ad6b", "countryname": "Congo (DR)", "name": "CSR Nyabiondo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [28.813333, -1.398889] }}
+,
+{"type": "Feature", "properties": {"uuid": "3ef42f1e-02e3-4f05-a57f-ce6ac9bc2ecc", "countryname": "Congo (DR)", "name": "CSR Bambu", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.118064, 0.98335] }}
+,
+{"type": "Feature", "properties": {"uuid": "48dff5f0-c5f3-45e3-898a-bfdecac4a44b", "countryname": "Congo", "name": "PS Boyele port", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "707df4de-be24-43f9-8ee5-28e71135f0ad", "countryname": "Congo (DR)", "name": "CSR Nyanzale", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.112, 1.02] }}
+,
+{"type": "Feature", "properties": {"uuid": "256cfd69-9530-4d5e-abfd-200bbdd047c5", "countryname": "Congo (DR)", "name": "CS Katsiru", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.104, 1.1219] }}
+,
+{"type": "Feature", "properties": {"uuid": "35b660d0-671f-4c31-b0b3-5529010d1fde", "countryname": "Congo (DR)", "name": "CEBCE Bambu", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.118064, 0.98335] }}
+,
+{"type": "Feature", "properties": {"uuid": "58e9e524-affc-4258-aae9-a1cb23d335ff", "countryname": "Congo (DR)", "name": "HGR Mweso", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.25123, 1.431989] }}
+,
+{"type": "Feature", "properties": {"uuid": "43ed8cbd-123d-4471-bf23-f89dbf7e6c1f", "countryname": "Congo (DR)", "name": "CS Faraja", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.23127, 1.084787] }}
+,
+{"type": "Feature", "properties": {"uuid": "7f6bc62f-e831-43c6-835b-8a72d31320f7", "countryname": "Congo (DR)", "name": "CS Kishishe", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.22, 1.026] }}
+,
+{"type": "Feature", "properties": {"uuid": "82525fd4-bbab-4b62-88d1-8a1d0b2ad612", "countryname": "Congo (DR)", "name": "CS Singa", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.125, 1.042] }}
+,
+{"type": "Feature", "properties": {"uuid": "f64ab014-fa52-4ebf-8496-025e72f4ee20", "countryname": "Congo", "name": "PS Ite", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "12f2693d-b755-4a2f-9aa6-79f5df5ac381", "countryname": "Congo (DR)", "name": "CS Buhondwa", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.115, 1.028] }}
+,
+{"type": "Feature", "properties": {"uuid": "c80f0b84-d804-4547-a097-840950150e72", "countryname": "Congo (DR)", "name": "CS Kabati", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.583, 1.293] }}
+,
+{"type": "Feature", "properties": {"uuid": "6fb5414f-2714-41d6-b406-eae35263df68", "countryname": "Congo (DR)", "name": "CS Kashalira", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.163, 0.985] }}
+,
+{"type": "Feature", "properties": {"uuid": "2b3e2f5b-a58e-4a92-8cb6-4f4fd5b1af69", "countryname": "Congo (DR)", "name": "CS Kashuga", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.25123, 1.431989] }}
+,
+{"type": "Feature", "properties": {"uuid": "5bcc004d-ab5c-49e3-a7a9-1793f3e8135a", "countryname": "Congo", "name": "PS Ibenga", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "bd4d308c-abee-41d3-8ddd-29d9fd4da69a", "countryname": "Congo (DR)", "name": "CS Birundule", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.131795, -1.200822] }}
+,
+{"type": "Feature", "properties": {"uuid": "6b057a43-172c-4310-b8c8-06934f75d88f", "countryname": "Congo (DR)", "name": "CS Kikuku", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.131795, -1.200822] }}
+,
+{"type": "Feature", "properties": {"uuid": "e2384ecd-91cb-498b-bf2f-36524150d9ad", "countryname": "Congo (DR)", "name": "Mubimbi I", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.25123, 1.431989] }}
+,
+{"type": "Feature", "properties": {"uuid": "284669a0-706c-4e44-a86d-b1827ac0f295", "countryname": "Congo (DR)", "name": "CS Bweru", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.25123, 1.431989] }}
+,
+{"type": "Feature", "properties": {"uuid": "c36a703b-f5bf-493f-9ea1-b455286c4e44", "countryname": "Congo (DR)", "name": "CS Bibwe", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.25123, 1.431989] }}
+,
+{"type": "Feature", "properties": {"uuid": "b911e8fb-786a-4724-848c-4dbcd468b2fb", "countryname": "Congo", "name": "PS Betikoumba", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "17bc65b8-76ee-4287-9672-666b2d6c2a53", "countryname": "Congo", "name": "PS Tala na miso", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "9f6234c1-5328-4475-9eaf-4eb70f22948b", "countryname": "Congo (DR)", "name": "CS Rwindi", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [29.173511, 0.47111] }}
+,
+{"type": "Feature", "properties": {"uuid": "1b94c086-e4fb-4a01-8699-c786830216a7", "countryname": "Congo", "name": "CMS Betou", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "35237f20-7d7e-4d96-9ea9-31bb0be1a72f", "countryname": "Congo", "name": "PS Eboko", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "1f9a1ea7-3a8a-481b-96d7-0b9c11ce7e09", "countryname": "Congo", "name": "PS Gaga", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "b5a8e10d-7e80-49cb-aaeb-04b2bb7d0366", "countryname": "Congo", "name": "PS Nyamoba", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "cf77585b-189d-46c1-b05d-86c38d0ab951", "countryname": "Congo", "name": "PS Liboko", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "b5b81970-b5ca-4ed4-a788-74cb996f26e7", "countryname": "Congo", "name": "PS Kpeta", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "571a5e79-25ed-4fdf-9789-b91ca0298524", "countryname": "Congo", "name": "PS Dongou", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "a90d19eb-ebb6-48d4-89f1-d240d7737233", "countryname": "Congo", "name": "PS Inyangakake", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "d3f38de0-08c6-46bd-9be9-422c6ca18376", "countryname": "Congo", "name": "PS Mankolo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "bda623b2-ccd4-48f8-9b29-702bc0cd564a", "countryname": "Congo", "name": "PS Malala", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "bc677ec7-1ca0-4740-8a77-7d34e76bfcee", "countryname": "Congo", "name": "PS Impfondo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "52ff5c76-7fff-42e7-a541-d7911e5289df", "countryname": "Congo", "name": "PS Bongende", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "074745e0-b669-4cdd-adfc-016393dbbd0d", "countryname": "Congo", "name": "PS Bokpokoto", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "f5d3592e-5eca-461a-a4e4-976f793be816", "countryname": "Congo", "name": "PS Bolembe", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "5fd498e1-56d1-48f8-aec7-d0aeb8b40559", "countryname": "Congo", "name": "PS Mombenzele", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "a4522136-0e6f-412c-b768-7b2852ee0bfb", "countryname": "Congo", "name": "PS Congo malembe", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "682f2894-23fc-42d9-ac2f-5e985d57284a", "countryname": "Congo", "name": "PS Djoumbele", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "c8b314f5-c5c6-4fd5-b3a5-83fb513cdd20", "countryname": "Congo", "name": "PS Ngondola", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "b464ae28-2d4c-4546-8b11-57bac867118f", "countryname": "Congo", "name": "PS Longo 2", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [18.5181188, 3.0625711] }}
+,
+{"type": "Feature", "properties": {"uuid": "a36af2c7-6060-4707-9cf3-fdcbc8149de2", "countryname": "Cameroon", "name": "CSI Djohong", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.41424, 6.50165] }}
+,
+{"type": "Feature", "properties": {"uuid": "cc24ddfe-a914-4930-8de1-62d711f5ce28", "countryname": "Cameroon", "name": "CSI Ngam", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.34068, 6.44528] }}
+,
+{"type": "Feature", "properties": {"uuid": "a9ac230f-3a7f-44b8-a6d5-6eb4d42a6fd0", "countryname": "Cameroon", "name": "CSI Batoua Godole", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.43254, 6.1906] }}
+,
+{"type": "Feature", "properties": {"uuid": "335f464e-9a44-4bf5-8013-2f0cc9d66499", "countryname": "Cameroon", "name": "CSI Boubara", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32723, 4.53347] }}
+,
+{"type": "Feature", "properties": {"uuid": "24f41daf-9c07-4cf3-919e-117d1511ace5", "countryname": "Cameroon", "name": "CSI Kombo Laka", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.43802, 6.24823] }}
+,
+{"type": "Feature", "properties": {"uuid": "ec275e1b-a4dc-4505-b306-acacde932f21", "countryname": "Cameroon", "name": "CSI Gbiti", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32723, 4.53347] }}
+,
+{"type": "Feature", "properties": {"uuid": "e90eca12-55e1-43fa-8b37-886effe0b0f6", "countryname": "Cameroon", "name": "CSI Ngaoui", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.56981, 6.44982] }}
+,
+{"type": "Feature", "properties": {"uuid": "87f6e54f-789b-4e63-ba74-fa3fcdebeb6a", "countryname": "Cameroon", "name": "CSI Yamba", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [15.12355, 7.06401] }}
+,
+{"type": "Feature", "properties": {"uuid": "c11f95a8-2d30-4974-b4ed-236a53ba650e", "countryname": "Cameroon", "name": "CSI Yarmbang", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.57716, 7.00738] }}
+,
+{"type": "Feature", "properties": {"uuid": "f679013b-49c9-41cc-8cb4-09725bbca410", "countryname": "Cameroon", "name": "CSI Mboula", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.17388, 6.31197] }}
+,
+{"type": "Feature", "properties": {"uuid": "e150d92a-9c5c-4f37-a892-7116d6c42219", "countryname": "Cameroon", "name": "CSI Mboumama", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32723, 4.53347] }}
+,
+{"type": "Feature", "properties": {"uuid": "f5dd912b-960e-4051-8786-1e60679eb233", "countryname": "Cameroon", "name": "MMU Djaoro Mone", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.6904, 6.83608] }}
+,
+{"type": "Feature", "properties": {"uuid": "3c1b262a-f5bf-4372-81fa-e5575dfc5c19", "countryname": "Cameroon", "name": "CSI Bouli", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.08298, 5.597916] }}
+,
+{"type": "Feature", "properties": {"uuid": "d6897288-7602-4c07-9eb1-d7d32e973820", "countryname": "Cameroon", "name": "MMU Garga Pella", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.53293, 6.48688] }}
+,
+{"type": "Feature", "properties": {"uuid": "d1db168e-22a9-499b-83f8-643a4a94b035", "countryname": "Cameroon", "name": "HD Kette", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32723, 4.53347] }}
+,
+{"type": "Feature", "properties": {"uuid": "1562aa4a-4e56-4f74-8452-02d5ed1d3585", "countryname": "Cameroon", "name": "MMU Diel", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.6904, 6.83608] }}
+,
+{"type": "Feature", "properties": {"uuid": "38a2f2b4-8610-4539-94df-cd8f979b943c", "countryname": "Cameroon", "name": "CSI Meidougou", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.17388, 6.31197] }}
+,
+{"type": "Feature", "properties": {"uuid": "91bc4eca-b060-4b81-90ba-cfe03a214d8c", "countryname": "Cameroon", "name": "MMU Bafouck", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.47278, 6.39993] }}
+,
+{"type": "Feature", "properties": {"uuid": "53bf2a35-9626-4394-995f-253732b4d853", "countryname": "Cameroon", "name": "CSI Timangolo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32723, 4.53347] }}
+,
+{"type": "Feature", "properties": {"uuid": "6ad6c596-90f8-41b4-b2ff-19485a8bdc5d", "countryname": "Cameroon", "name": "MMU Nabemo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.45741, 6.52602] }}
+,
+{"type": "Feature", "properties": {"uuid": "18f55ae2-761f-4219-9648-88273ca085be", "countryname": "Cameroon", "name": "CSI Letta", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [13.50362, 4.5547] }}
+,
+{"type": "Feature", "properties": {"uuid": "2f9f3416-12bf-4c00-8071-ebf959aef507", "countryname": "Cameroon", "name": "MMU Batoure Zim", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.6904, 6.83608] }}
+,
+{"type": "Feature", "properties": {"uuid": "98ca585a-fd16-429a-9ab3-a930ab406deb", "countryname": "Cameroon", "name": "MMU Damissa", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.6904, 6.83608] }}
+,
+{"type": "Feature", "properties": {"uuid": "da664cc4-3fb2-4436-9142-199141161ea6", "countryname": "Cameroon", "name": "MMU Borgop", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.48176, 6.55999] }}
+,
+{"type": "Feature", "properties": {"uuid": "99c1973f-0434-4f41-a547-d47ecbb73fd2", "countryname": null, "name": "Health Post 4", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.2881, 0.191389] }}
+,
+{"type": "Feature", "properties": {"uuid": "6943bd7b-e8ab-46ea-b2b1-ee95a65311ab", "countryname": "Cameroon", "name": "MMU Ouro Ade", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.5795, 6.51591] }}
+,
+{"type": "Feature", "properties": {"uuid": "0ab30385-0d20-4cf2-bf72-882973fd2b55", "countryname": "Cameroon", "name": "MMU Baguete Salao", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.6904, 6.83608] }}
+,
+{"type": "Feature", "properties": {"uuid": "d35bdbd2-57f0-4ad9-a19a-b4e49e3d1195", "countryname": "Cameroon", "name": "CSI  Gado Badzere", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32622, 5.53918] }}
+,
+{"type": "Feature", "properties": {"uuid": "a294f007-9294-464f-9634-0063599963b1", "countryname": "Cameroon", "name": "MMU Mbondo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.38595, 6.4872] }}
+,
+{"type": "Feature", "properties": {"uuid": "eb036151-3706-420f-afba-d5a61d6baf2e", "countryname": "Cameroon", "name": "CSI Bedobo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32723, 4.53347] }}
+,
+{"type": "Feature", "properties": {"uuid": "6bad8774-b10e-4430-8f5e-84f6dc02240e", "countryname": "Cameroon", "name": "MMU Bawaka Oumarou", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.6904, 6.83608] }}
+,
+{"type": "Feature", "properties": {"uuid": "78baad17-ec0e-4e60-a21e-8ac8a9d79635", "countryname": "Cameroon", "name": "MMU Soba", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.6904, 6.83608] }}
+,
+{"type": "Feature", "properties": {"uuid": "3f602e07-26be-4239-aa7a-f8eb8510e3c4", "countryname": "Cameroon", "name": "MMU Dobezon", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.6904, 6.83608] }}
+,
+{"type": "Feature", "properties": {"uuid": "0d9c3c6e-5a88-44be-807c-ca952afdef07", "countryname": "Cameroon", "name": "CSI Bagodo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [13.2326, 6.25453] }}
+,
+{"type": "Feature", "properties": {"uuid": "fa8f3c66-054c-43a3-a848-574ada0b6275", "countryname": "Cameroon", "name": "MMU Mbewe", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.47225, 6.44331] }}
+,
+{"type": "Feature", "properties": {"uuid": "68582def-5719-457a-80f8-123087cccdc3", "countryname": "Cameroon", "name": "MMU Fada", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.6904, 6.83608] }}
+,
+{"type": "Feature", "properties": {"uuid": "d5a564ae-408c-4792-aed2-57b72732c142", "countryname": "Cameroon", "name": "CSI Mbarang", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.17388, 6.31197] }}
+,
+{"type": "Feature", "properties": {"uuid": "8b943b24-99e6-400f-99dd-8d95b38fc309", "countryname": "Cameroon", "name": "CSI Gadji", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.03063, 4.29005] }}
+,
+{"type": "Feature", "properties": {"uuid": "07a62174-16a2-453f-9717-69d160c7b412", "countryname": "Cameroon", "name": "CMA Badongoue", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.12302, 4.2412] }}
+,
+{"type": "Feature", "properties": {"uuid": "3acd9268-dcc4-4007-946f-d12924b06aee", "countryname": "Cameroon", "name": "CSI Toktoyo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32723, 4.53347] }}
+,
+{"type": "Feature", "properties": {"uuid": "7febc124-bc18-4e6a-a916-09aa0ed68c61", "countryname": "Cameroon", "name": "CSI Gunbela", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.17388, 6.31197] }}
+,
+{"type": "Feature", "properties": {"uuid": "4c276485-5730-4d5d-a7be-8c5d23d1198a", "countryname": "Cameroon", "name": "CSI Bazzama", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [13.53261, 4.32529] }}
+,
+{"type": "Feature", "properties": {"uuid": "d232a13c-1d88-4736-8700-556fefc388e5", "countryname": "Cameroon", "name": "CSI Tapare", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.16397, 4.44539] }}
+,
+{"type": "Feature", "properties": {"uuid": "934c940c-c46d-4077-97d0-b37e9eb8a23f", "countryname": "Cameroon", "name": "CSI Belita", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.4309, 4.22506] }}
+,
+{"type": "Feature", "properties": {"uuid": "67f347ed-ff3a-4ded-a8e1-1af06a684c11", "countryname": "Cameroon", "name": "CSI Meiganga", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.17388, 6.31197] }}
+,
+{"type": "Feature", "properties": {"uuid": "6435b5d4-ff33-4ee0-b992-6e37696bf3b5", "countryname": "Cameroon", "name": "CSI Lolo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.54204, 4.16381] }}
+,
+{"type": "Feature", "properties": {"uuid": "d24b58a7-c8b2-4b21-92b3-34dfdff8e489", "countryname": "Cameroon", "name": "CMA Kentzou", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [15.01874, 4.10218] }}
+,
+{"type": "Feature", "properties": {"uuid": "463d303e-3102-4742-ba16-4beaf57522f3", "countryname": "Cameroon", "name": "CMA Dir", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.17388, 6.31197] }}
+,
+{"type": "Feature", "properties": {"uuid": "80a52666-da07-4297-bd7c-31cd4fb89f2c", "countryname": "Cameroon", "name": "CSI Mandjou", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [13.45282, 4.3541] }}
+,
+{"type": "Feature", "properties": {"uuid": "062207d4-6143-473b-88ee-ab10a6308e8c", "countryname": "Cameroon", "name": "CSI Lokoti", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.17388, 6.31197] }}
+,
+{"type": "Feature", "properties": {"uuid": "85c434ff-1588-4496-85dc-d7785f22a153", "countryname": "Cameroon", "name": "CSI Grand Boulaye", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [13.49172, 4.52356] }}
+,
+{"type": "Feature", "properties": {"uuid": "a3658f51-7ca7-4b0a-89ea-236c9bb5dd27", "countryname": "Cameroon", "name": "CSI Boulembe", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [13.40939, 4.35294] }}
+,
+{"type": "Feature", "properties": {"uuid": "55161c08-b48b-4333-b8cd-c176dc1ac0ee", "countryname": "Cameroon", "name": "CSI Badjer", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.17388, 6.31197] }}
+,
+{"type": "Feature", "properties": {"uuid": "179375e3-45e1-45d3-b233-5f673825359a", "countryname": "Cameroon", "name": "CMA Garoua Boulai", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32622, 5.53918] }}
+,
+{"type": "Feature", "properties": {"uuid": "65c6a360-a3db-433e-895b-27b5cf6ff95b", "countryname": "Cameroon", "name": "CSI Bindiba", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32622, 5.53918] }}
+,
+{"type": "Feature", "properties": {"uuid": "ce430cec-0e0e-4a1d-be35-ac1753664ac1", "countryname": "Cameroon", "name": "CSI Nandungue", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.32622, 5.53918] }}
+,
+{"type": "Feature", "properties": {"uuid": "7c535fcd-f302-41e3-9521-b4da25420633", "countryname": "Cameroon", "name": "CSI Dang Patu", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.08298, 5.597916] }}
+,
+{"type": "Feature", "properties": {"uuid": "b9fa8536-f701-409a-9652-163f7e78d79e", "countryname": "Cameroon", "name": "CSI Tongo Gandima", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.08298, 5.597916] }}
+,
+{"type": "Feature", "properties": {"uuid": "4d0255b6-b10d-45fd-bbee-03d471e053ee", "countryname": "Cameroon", "name": "CSI Garga Sarali", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.08298, 5.597916] }}
+,
+{"type": "Feature", "properties": {"uuid": "cafcf5f8-ca27-405a-9b2f-970d67e410f1", "countryname": "Cameroon", "name": "CSI Woumbou", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.08298, 5.597916] }}
+,
+{"type": "Feature", "properties": {"uuid": "e7a711f9-60cf-4d8c-b2ad-54db0f07aa1d", "countryname": "Cameroon", "name": "CSI Ngoura", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.08298, 5.597916] }}
+,
+{"type": "Feature", "properties": {"uuid": "5838a5f8-625c-4abf-a1f7-9a8f208f3f2f", "countryname": "Cameroon", "name": "CSI Ndokayo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.08298, 5.597916] }}
+,
+{"type": "Feature", "properties": {"uuid": "e8719de5-4e03-40a6-88da-6cf0db8133e0", "countryname": "Cameroon", "name": "CSI  catholique de B", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [14.08298, 5.597916] }}
+,
+{"type": "Feature", "properties": {"uuid": "f8d74894-0f2d-44c6-a40b-5ded2f56c6ce", "countryname": null, "name": "Health Post I7", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.3131, 0.108611] }}
+,
+{"type": "Feature", "properties": {"uuid": "09f1d237-9ffb-4d8d-a9d6-8c6473963695", "countryname": "South Sudan", "name": "IMC Main Clinic", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [33.040297, 10.459025] }}
+,
+{"type": "Feature", "properties": {"uuid": "faa93180-7fac-410c-8762-c2a8f892cff3", "countryname": null, "name": "Dagahaley Hospital", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.2881, 0.191389] }}
+,
+{"type": "Feature", "properties": {"uuid": "159356cb-5b88-43ba-9124-03f22d731361", "countryname": null, "name": "Health Post E1", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.3131, 0.108611] }}
+,
+{"type": "Feature", "properties": {"uuid": "ad436ef5-f60d-40a2-aeef-74e2986b487d", "countryname": null, "name": "Health Post 1", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.3131, 0.108611] }}
+,
+{"type": "Feature", "properties": {"uuid": "b5e6b502-7647-4f6d-a6f4-4205b04ad5d9", "countryname": null, "name": "Health Post D5", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.2881, 0.191389] }}
+,
+{"type": "Feature", "properties": {"uuid": "fe1f3c03-6920-4358-9426-13e3ad260a61", "countryname": null, "name": "Health Post 6", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.2881, 0.191389] }}
+,
+{"type": "Feature", "properties": {"uuid": "ae27ab00-8326-46ed-bcd5-3f6576f34259", "countryname": null, "name": "Health Post D7", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.2881, 0.191389] }}
+,
+{"type": "Feature", "properties": {"uuid": "43e9ec20-40b4-407e-9b14-5ffd486e7dfe", "countryname": null, "name": "Health Post I5", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.3131, 0.108611] }}
+,
+{"type": "Feature", "properties": {"uuid": "e6d3edde-302c-4fd3-8fcf-12f36bd8b746", "countryname": null, "name": "Hagadera Hospital", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.35, 0.001111] }}
+,
+{"type": "Feature", "properties": {"uuid": "01451dd1-30de-48e0-9f5f-9e4eb740dd09", "countryname": null, "name": "Health Post A6", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.35, 0.001111] }}
+,
+{"type": "Feature", "properties": {"uuid": "1bbe80c4-c9d6-4a38-a76d-8a7f9f4e93a8", "countryname": null, "name": "Health Post E6", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.35, 0.001111] }}
+,
+{"type": "Feature", "properties": {"uuid": "05c3c970-7b9e-442d-b282-c044cd0d2c3c", "countryname": null, "name": "Health Post G6", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.35, 0.001111] }}
+,
+{"type": "Feature", "properties": {"uuid": "22c1e08e-bb3c-402d-8869-3b0e7fad9766", "countryname": null, "name": "Health Post L6", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.35, 0.001111] }}
+,
+{"type": "Feature", "properties": {"uuid": "b2219105-ebca-4876-b289-8b239e2db2be", "countryname": null, "name": "New Ifo Hospital", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.3131, 0.108611] }}
+,
+{"type": "Feature", "properties": {"uuid": "2bf287ec-fd2b-4ed8-b0e7-684c65104baa", "countryname": null, "name": "Health Post N0", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.3131, 0.108611] }}
+,
+{"type": "Feature", "properties": {"uuid": "82a360a1-fe04-4258-b553-bb459e81e5f6", "countryname": null, "name": "Health Post N12", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.3131, 0.108611] }}
+,
+{"type": "Feature", "properties": {"uuid": "84795993-1bfc-4ebf-b524-4d8a7623b9f1", "countryname": null, "name": "Kambioos Health Post", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [40.357, -0.0391] }}
+,
+{"type": "Feature", "properties": {"uuid": "c540b1c7-8a6e-4b23-b5b6-36b5cf4e41cf", "countryname": "South Sudan", "name": "GOAL Clinic West", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [33.571128, 9.99644] }}
+,
+{"type": "Feature", "properties": {"uuid": "360a09a3-9129-4070-85d5-5972ac12182a", "countryname": "South Sudan", "name": "CARE Clinic PHCC A", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [30.089444, 10.103036] }}
+,
+{"type": "Feature", "properties": {"uuid": "d822eadc-d364-437b-a955-5e825f332001", "countryname": "Tanzania", "name": "Main dispensary", "geolevel": 5, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.3846, -4.22092] }}
+,
+{"type": "Feature", "properties": {"uuid": "3aeccfad-2f75-4481-b8a4-b14fe140bcf1", "countryname": "Tanzania", "name": "Health Post 2", "geolevel": 5, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [30.3846, -4.22092] }}
+,
+{"type": "Feature", "properties": {"uuid": "4b4e7923-1863-4018-959d-8e19c5a5ee3a", "countryname": null, "name": "Mukondo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [31.187543, 0.413357] }}
+,
+{"type": "Feature", "properties": {"uuid": "e366fe8f-3cda-4c87-a658-bba756fcb843", "countryname": null, "name": "Bujubuli", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [31.187543, 0.413357] }}
+,
+{"type": "Feature", "properties": {"uuid": "8ece09a8-fbec-4c22-8734-9b15460b7885", "countryname": "Uganda", "name": "Rubondo", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [30.949444, -0.776389] }}
+,
+{"type": "Feature", "properties": {"uuid": "b8378c35-f55a-4205-86e6-61f49305cfd3", "countryname": "Malaysia", "name": "ACTS clinic", "geolevel": 5, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [101.686849, 3.138722] }}
+,
+{"type": "Feature", "properties": {"uuid": "3db4a6c8-c051-4753-9ac6-08619ce83302", "countryname": "Thailand", "name": "Ban Tractor (BT)", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [97.8306, 19.3704] }}
+,
+{"type": "Feature", "properties": {"uuid": "a4380643-3209-47dc-bb13-b48c4b0ea2f3", "countryname": "Uganda", "name": "Nakivale Base Camp", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [30.949444, -0.776389] }}
+,
+{"type": "Feature", "properties": {"uuid": "140344bc-b02f-431f-8708-35da0342bd2b", "countryname": "Uganda", "name": "Juru", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [30.543924, -0.574775] }}
+,
+{"type": "Feature", "properties": {"uuid": "adb2ddd0-31b2-4627-ab85-54270463aab1", "countryname": "Uganda", "name": "Ngarama", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [30.949444, -0.776389] }}
+,
+{"type": "Feature", "properties": {"uuid": "7173c9b2-1c23-4dcd-bc3f-186e8e2c3e94", "countryname": "Malaysia", "name": "Tzu Chi clinic", "geolevel": 5, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [101.686849, 3.138722] }}
+,
+{"type": "Feature", "properties": {"uuid": "6b93b0b0-b7ae-4255-9f49-4f555c32f66e", "countryname": "Thailand", "name": "Ban Kwai", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [97.8326, 19.3724] }}
+,
+{"type": "Feature", "properties": {"uuid": "e78c6a9b-7f15-4597-aa21-139bee29ec9f", "countryname": "Thailand", "name": "Ban Tractor", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [97.8316, 19.3714] }}
+,
+{"type": "Feature", "properties": {"uuid": "967793bc-c304-4b4b-83ef-4fb799442e9b", "countryname": "Thailand", "name": "Ban Kwai (BK)", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [97.8306, 19.3704] }}
+,
+{"type": "Feature", "properties": {"uuid": "6d2aed76-08f8-4b45-8f5c-2828daa0c6ed", "countryname": "Jordan", "name": "JHAS clinic", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.155, 32.18] }}
+,
+{"type": "Feature", "properties": {"uuid": "8e10788e-b54b-421c-b2db-1a0a961d64f0", "countryname": "Jordan", "name": "Saudi clinic", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.155, 32.18] }}
+,
+{"type": "Feature", "properties": {"uuid": "c639c476-df60-40c4-9ca9-85c659a4cceb", "countryname": "Jordan", "name": "MDM clinic", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.155, 32.18] }}
+,
+{"type": "Feature", "properties": {"uuid": "f5a1b758-b5bb-45f3-8ff3-5e4fc6fd15d9", "countryname": "Jordan", "name": "IMC clinic", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.155, 32.18] }}
+,
+{"type": "Feature", "properties": {"uuid": "8a04110d-f242-4685-acac-42dbdc3df07a", "countryname": "Jordan", "name": "RMS field hospital", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.155, 32.18] }}
+,
+{"type": "Feature", "properties": {"uuid": "551d8b54-69a3-4857-8cc5-29e734e02950", "countryname": "Jordan", "name": "French field hospital", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.155, 32.18] }}
+,
+{"type": "Feature", "properties": {"uuid": "4cad88ca-58cb-4ced-a9d7-d434c7321033", "countryname": "Jordan", "name": "Irbid JHAS", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [32.559, 35.839] }}
+,
+{"type": "Feature", "properties": {"uuid": "a4cf00f0-b4b2-46c4-832e-6415a3ecd126", "countryname": "Jordan", "name": "Moroccan field hospital", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.155, 32.18] }}
+,
+{"type": "Feature", "properties": {"uuid": "273e4e02-9063-4476-b896-8384dfe571b8", "countryname": "Jordan", "name": "MSF Hospital", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.155, 32.18] }}
+,
+{"type": "Feature", "properties": {"uuid": "3005e73d-a656-4cc6-b310-0c7871830029", "countryname": "Lebanon", "name": "IMC North clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.0111, 34.2511] }}
+,
+{"type": "Feature", "properties": {"uuid": "4d255c78-7810-4cad-9edd-581409366c4d", "countryname": "Lebanon", "name": "RESTART Tripoli", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.0111, 34.2511] }}
+,
+{"type": "Feature", "properties": {"uuid": "e4348f93-289f-4e51-b069-d32633f43e26", "countryname": "Lebanon", "name": "MOPH North clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.0111, 34.2511] }}
+,
+{"type": "Feature", "properties": {"uuid": "62a0adab-aecf-4995-ba2f-e5afb39492d5", "countryname": "Lebanon", "name": "MOSA North clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.0111, 34.2511] }}
+,
+{"type": "Feature", "properties": {"uuid": "dde5cad3-5a60-44e2-8b4e-b9f4e2cd09a6", "countryname": "Lebanon", "name": "IOCC Clinic North", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.0111, 34.2511] }}
+,
+{"type": "Feature", "properties": {"uuid": "fdaf507c-1c07-4461-9542-7fe22970b2ae", "countryname": "Lebanon", "name": "IMC South clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.4875, 33.3639] }}
+,
+{"type": "Feature", "properties": {"uuid": "ce34cc28-43be-4111-8e11-6b6b90a06715", "countryname": "Lebanon", "name": "AMEL South clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.4875, 33.3639] }}
+,
+{"type": "Feature", "properties": {"uuid": "798e4b86-39aa-4add-9599-0709d7bd9109", "countryname": "Lebanon", "name": "CLMC South clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.4875, 33.3639] }}
+,
+{"type": "Feature", "properties": {"uuid": "664e03ce-b2bb-451a-963e-7b2b271853c5", "countryname": "Lebanon", "name": "MOPH South clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.4875, 33.3639] }}
+,
+{"type": "Feature", "properties": {"uuid": "f16303f1-3c1d-4ef2-90af-204e19f07748", "countryname": "Lebanon", "name": "MOSA South clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.4875, 33.3639] }}
+,
+{"type": "Feature", "properties": {"uuid": "4ef00ed7-e160-4927-93dd-0aec2bb8b658", "countryname": "Lebanon", "name": "IOCC Clinic South", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.4875, 33.3639] }}
+,
+{"type": "Feature", "properties": {"uuid": "fa503107-ce24-4f7a-ae7b-d12636e682ef", "countryname": "Lebanon", "name": "IMC Bekaa clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.0, 33.833389] }}
+,
+{"type": "Feature", "properties": {"uuid": "1e643b6a-43ab-4eb0-aea3-25178a5c7be3", "countryname": "Lebanon", "name": "AMEL Bekaa clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.0, 33.833389] }}
+,
+{"type": "Feature", "properties": {"uuid": "dfc94573-8087-42f5-9279-1c1a7ad78dd5", "countryname": "Lebanon", "name": "MOPH Bekaa clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.0, 33.833389] }}
+,
+{"type": "Feature", "properties": {"uuid": "9e82821e-68ae-41ed-bc2a-4de6f23dbc91", "countryname": "Lebanon", "name": "MOSA Bekaa clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.0, 33.833389] }}
+,
+{"type": "Feature", "properties": {"uuid": "b0f3c06f-0fd1-4ea9-a194-3c9cf9567237", "countryname": "Lebanon", "name": "IOCC Clinic Bekaa", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [36.0, 33.833389] }}
+,
+{"type": "Feature", "properties": {"uuid": "28a0b781-dd60-43d1-9939-1d8f454b54cd", "countryname": "Lebanon", "name": "PU-AMI clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.513056, 33.886944] }}
+,
+{"type": "Feature", "properties": {"uuid": "5a72d3fc-a262-416d-9f06-cec0450c3cd3", "countryname": "Lebanon", "name": "AMEL Beirut clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.513056, 33.886944] }}
+,
+{"type": "Feature", "properties": {"uuid": "053a062b-0acf-4d8c-b786-67631e30494a", "countryname": "Lebanon", "name": "RESTART Beirut", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.513056, 33.886944] }}
+,
+{"type": "Feature", "properties": {"uuid": "99d6b392-4a52-4881-bbdc-85ff761a1d8d", "countryname": "Lebanon", "name": "MF clinics", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.513056, 33.886944] }}
+,
+{"type": "Feature", "properties": {"uuid": "07f761b2-c942-48e1-9c37-dde0f99eb8dd", "countryname": "Lebanon", "name": "MOPH Beirut Mt Lebanon", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.513056, 33.886944] }}
+,
+{"type": "Feature", "properties": {"uuid": "d538c16d-b7d1-4f0a-8fea-6cfdc78d1e08", "countryname": "Lebanon", "name": "MOSA Beirut Mt Lebanon", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.513056, 33.886944] }}
+,
+{"type": "Feature", "properties": {"uuid": "61a64fde-09cd-4d71-b636-0c9a633ee6cc", "countryname": "Lebanon", "name": "IOCC Clinic Beirut and Mt Lebanon", "geolevel": 5, "map_icon": "refugee-camp-healthfacility.png" }, "geometry":{"type": "Point", "coordinates": [35.513056, 33.886944] }}
+,
+{"type": "Feature", "properties": {"uuid": "8bf4a0c7-6c6e-4348-8877-2c93e1340d1d", "countryname": "Timor-Leste", "name": "Dili", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [125.58, -8.571] }}
+,
+{"type": "Feature", "properties": {"uuid": "4d035c7b-8698-430a-9b30-90e8443d1286", "countryname": "Israel", "name": "Tel Aviv", "geolevel": 4, "map_icon": "urban.png" }, "geometry":{"type": "Point", "coordinates": [34.964016, 32.35817] }}
+,
+{"type": "Feature", "properties": {"uuid": "7466b676-893d-4242-b81c-9690bf4b7e90", "countryname": "Libya", "name": "Tripoli", "geolevel": 4, "map_icon": "refugee-camp.png" }, "geometry":{"type": "Point", "coordinates": [13.18, 32.8925]}}
+
+]

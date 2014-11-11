@@ -9,13 +9,10 @@
  * Main module of the application.
  */
 angular
-  .module('testingApp', [
-    'ngAnimate',
-    'ngCookies',
-    'ngResource',
-    'ngRoute',
-    'ngSanitize'
-  ])
-  .config(function ($routeProvider) {
-
-  });
+	.module('twineApp', [
+		'ngCookies',
+		'ngResource',
+		'ngRoute',
+		'ngSanitize',
+		'PunktoCtrl'
+	]);

@@ -36,7 +36,7 @@ module.exports = function (grunt) {
                 tasks: ['newer:jshint:test', 'karma']
             },
             styles: {
-                files: ['src/styles/{,*/}*.less'],
+                files: ['src/styles/punkto.less'],
                 tasks: ['newer:copy:styles', 'autoprefixer', 'less:development']
             },
             gruntfile: {
@@ -185,7 +185,8 @@ module.exports = function (grunt) {
                 flow: {
                     html: {
                         steps: {
-                            js: ['concat', 'uglifyjs']
+                            js: ['concat', 'uglifyjs'],
+                            css: ['concat', 'cssmin']
                         },
                         post: {}
                     }
@@ -226,13 +227,36 @@ module.exports = function (grunt) {
                         '.htaccess',
                         '*.html',
                         'views/{,*/}*.html',
-                        'assets/**/*'
+                        'assets/**/*',
+                        'data/**/*'
                     ]
                 }, {
                     expand: true,
                     cwd: '.tmp/images',
                     dest: 'src/images',
                     src: ['generated/*']
+                },{
+                    expand: true,
+                    cwd: '.tmp/concat/styles',
+                    dest: 'dist/styles',
+                    src: [
+                        '*.css'
+                    ]
+                },{
+                    // ui-grid assets
+                    expand: true,
+                    cwd: 'src/bower_components/angular-ui-grid',
+                    dest: 'dist/styles',
+                    src: [
+                        'ui-grid.woff',
+                        'ui-grid.ttf'
+                    ]
+                },{
+                    // leaflet items
+                    expand: true,
+                    cwd: 'src/bower_components/leaflet/dist/images',
+                    dest: 'dist/styles/images',
+                    src: [ '*' ]
                 }]
             }
         },
@@ -285,7 +309,6 @@ module.exports = function (grunt) {
         grunt.task.run([
             'clean:server',
             'wiredep',
-            'less:development',
             'autoprefixer',
             'connect:livereload',
             'watch'
@@ -299,7 +322,6 @@ module.exports = function (grunt) {
 
     grunt.registerTask('test', [
         'clean:server',
-        'less:development',
         'autoprefixer',
         'connect:test',
         'karma'
@@ -314,7 +336,6 @@ module.exports = function (grunt) {
         'wiredep',
         'ngAnnotate',
         'useminPrepare',
-        'less:production',
         'autoprefixer',
         'concat',
         'copy:dist',
